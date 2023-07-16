@@ -33,7 +33,7 @@
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true" />
 </picture>
