@@ -18,20 +18,14 @@
 - Trabalho atualmente como técnico de suporte N2 👨‍💻
 
 "Computação é uma junção de prática, conhecimento e estudo"
-  </p>
-  
+</p>
+<div align=center> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=dark" />
+</a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&layout=compact&theme=dark" />
 </div>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: radical)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true"
-    media="(prefers-color-sheme: radical"/>
-  <img srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&layout=compact">
-</picture>
-
+<br>
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
