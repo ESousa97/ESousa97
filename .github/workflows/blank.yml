@@ -48,7 +48,10 @@ jobs:
       run: |
         git checkout --orphan output
         git rm -rf .
+        mv dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.gif.png
+        mv dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg.png
+        mv dist/ dist/assets/
         touch .nojekyll
-        git add .nojekyll
+        git add .
         git commit -m "Initial commit"
         git push -f origin output
