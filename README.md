@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/SousaDev97?tab=repositories">
-    <img height="150em" src="(https://github-readme-stats.vercel.app/api?username=SousaDev97)](https://github.com/SousaDev97/github-readme-stats)"/>
+    <img height="150em" src="([![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=SousaDev97)](https://github.com/SousaDev97/github-readme-stats))"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
