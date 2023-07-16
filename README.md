@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <a href="https://https://github.com/SousaDev97">
+  <a href="https://github.com/SousaDev97">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SousaDev97&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
