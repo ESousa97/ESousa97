@@ -16,18 +16,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    # Checks repo under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+    # Clona o repositório e seus submódulos para o contexto de build
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-    - uses: Platane/snk@master
-      id: snake-gif
-      with:
-        github_user_name: SousaDev97 #Seu usuario
-        gif_out_path: dist/github-contribution-grid-snake.gif
-        svg_out_path: dist/github-contribution-grid-snake.svg
+    - name: Generate files
+      run: npx github-contribution-grid-snake -u SousaDev97 -o output
 
-    - run: git status
+    # Move os arquivos gerados para um diretório específico
+    - name: Move files
+      run: |
+        mv ./output/github-contribution-grid-snake.gif ./output/assets/github-contribution-grid-snake.gif
+        mv ./output/github-contribution-grid-snake.svg ./output/assets/github-contribution-grid-snake.svg
 
     # Configuração do Git
     - name: Configure Git
@@ -40,7 +41,6 @@ jobs:
       run: |
         git add .
         git commit -m "Atualizar contribuição do GitHub"
-        git branch -m main
         git push origin main
 
     # Criação do branch de saída (output)
@@ -48,9 +48,7 @@ jobs:
       run: |
         git checkout --orphan output
         git rm -rf .
-        mv dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.gif.png
-        mv dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg.png
-        mv dist/ dist/assets/
+        cp -R output/* .
         touch .nojekyll
         git add .
         git commit -m "Initial commit"
