@@ -6,7 +6,9 @@
   </h1>
   
   <p align="center">
-    Para mais informações <a href="https://portifolio-sousadev97.vercel.app/index.html" target="_blank"><h1>Portifólio</h1></a>
+    Para mais informações 
+    <br>
+    <a href="https://portifolio-sousadev97.vercel.app/index.html" target="_blank">Portifólio</a>
     </br>
     
 - Cursos:
