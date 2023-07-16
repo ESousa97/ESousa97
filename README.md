@@ -7,6 +7,15 @@
   
   <p align="center">
     E estou estudando na escola Alura, onde estou aprendendo linguagens de programação.
+- Cursos:
+
+- Engenharia da Computação (Cursando) 🎓
+
+- Alura Cursos 🎓
+
+- Trabalho atualmente como técnico de suporte N2 👨‍💻
+
+"Computação é uma junção de prática, conhecimento e estudo"
   </p>
   
 </div>
@@ -32,7 +41,7 @@
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
-<div align="center">target="_blank"></a>
+<div align="center"></a>
   <a href="https://www.linkedin.com/in/enoque-sousa-bb89aa168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:sousa3086@outlook.com"><img src="undefined [undefined:sousa3086@outlook.com]></a>
 </div>
