@@ -6,7 +6,6 @@
   </h1>
   
   <p align="center">
-    E estou estudando na escola Alura, onde estou aprendendo linguagens de programação.
     </br>
     
 - Cursos:
