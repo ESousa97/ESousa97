@@ -8,7 +8,7 @@
   <p align="center">
     Para mais informações 
     <br>
-    <a href="https://portifolio-sousadev97.vercel.app/index.html" target="_blank">Portifólio</a>
+    <h1 align="center"><a href="https://portifolio-sousadev97.vercel.app/index.html" target="_blank">Portifólio</a></h1>
     </br>
     
 - Cursos:
