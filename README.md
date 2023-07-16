@@ -32,6 +32,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true" />
+  <img srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&layout=compact">
 </picture>
 
 <div align="center" valign="top"><br>
