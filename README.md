@@ -24,10 +24,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=radical"
     media="(prefers-color-scheme: radical)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true"
+    media="(prefers-color-sheme: radical"/>
   <img srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&layout=compact">
 </picture>
 
