@@ -4,11 +4,11 @@ name: Snake Game
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
+    # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
+workflow_dispatch:
 
 # Regras
 jobs:
@@ -16,30 +16,39 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+    # Checks repo under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: SousaDev97 #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+    - uses: Platane/snk@master
+      id: snake-gif
+      with:
+        github_user_name: SousaDev97 #Seu usuario
+        gif_out_path: dist/github-contribution-grid-snake.gif
+        svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - run: git status
+    - run: git status
 
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
+    # Configuração do Git
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+    # Commit das alterações
+    - name: Commit Changes
+      run: |
+        git add .
+        git commit -m "Atualizar contribuição do GitHub"
+        git branch -m main
+        git push origin main
+
+    # Criação do branch de saída (output)
+    - name: Create Output Branch
+      run: |
+        git checkout --orphan output
+        git rm -rf .
+        touch .nojekyll
+        git add .nojekyll
+        git commit -m "Initial commit"
+        git push -f origin output
