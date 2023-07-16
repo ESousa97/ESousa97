@@ -24,8 +24,17 @@
 
 <div align="center">
   <a href="https://github.com/SousaDev97?tab=repositories">
-    <img height="150em" src="([![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=SousaDev97)](https://github.com/SousaDev97/github-readme-stats))"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&theme=dracula&hide_border=false&&layout=compact"/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true" />
+</picture>
   </a>
 </div>
 
