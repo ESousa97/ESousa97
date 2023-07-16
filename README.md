@@ -19,6 +19,7 @@
 
 "Computação é uma junção de prática, conhecimento e estudo"
 </p>
+<br>
 <div align=center> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=dark" />
