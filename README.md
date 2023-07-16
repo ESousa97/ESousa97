@@ -26,4 +26,4 @@
 "Computação é uma junção de prática, conhecimento e estudo"
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SousaDev97/count.svg" /></p>
 
-![snake gif](https://https://https://github.com/SousaDev97/SousaDev97/blob/main/README.md)
+![snake gif](https://github.com/SousaDev97/SousaDev97/blob/output/github-contribution-grid-snake.svg)
