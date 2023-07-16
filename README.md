@@ -24,6 +24,4 @@
 - Trabalho atualmente como técnico de suporte N2 👨‍💻
 
 "Computação é uma junção de prática, conhecimento e estudo"
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SousaDev97/count.svg" /></p>
-<br>
-![snake gif](https://github.com/SousaDev97/SousaDev97/blob/output/github-contribution-grid-snake.svg)
+
