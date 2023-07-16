@@ -24,9 +24,9 @@
 <br>
 <div align=center> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SousaDev97&show_icons=true&theme=dark" />
 </a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&layout=compact&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SousaDev97&layout=compact&theme=dark" />
 </div>
 <br>
 <div align="center" valign="top"><br>
