@@ -19,12 +19,12 @@
 
   <div align="center"> 
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=dark" />
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=dark" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=dark" />
+      <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=dark" />
     </a>
-  </div>
+</div>
   
   <br>
   
