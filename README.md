@@ -15,7 +15,7 @@ Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) p
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=dark" width="36.8%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=dark" width="37.5%" />
 </p>
 
 
