@@ -7,7 +7,8 @@ Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) p
   - Alura Cursos - Diversos cursos completados em Desenvolvimento Web, DevOps e mais 🎓
 
 - **Experiência Profissional:**
-  - Analista de Automação de Processos na Positivo Tecnologia S.A. - Desenvolvimento e manutenção de scripts de automação, melhorando processos internos e aumentando a eficiência operacional. 👨‍💻
+  - Analista de Automação de Processos na Positivo Tecnologia S.A. (01/2024 - Presente) - Encarregado do desenvolvimento e manutenção de scripts de automação, resultando na otimização dos processos internos e no aumento da eficiência operacional. 👨‍💻
+  - Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024) - Técnico de Suporte N2 e responsável pela criação de processos inovadores para solucionar e documentar novos problemas. 👨‍💻
 
 > "Computação é uma junção de prática, conhecimento e estudo" - José Sousa
 
