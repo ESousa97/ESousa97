@@ -2,9 +2,13 @@
 
 Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) para mais informações! 🔍
 
-- **Cursos:**
-  - Engenharia da Computação (Cursando) - Foco em Desenvolvimento de Software e Inteligência Artificial 🎓
-  - Alura Cursos - Diversos cursos completados em Desenvolvimento Web, DevOps e mais 🎓
+- **Formação Acadêmica**:
+
+- Engenharia da Computação (Cursando) - Com ênfase em Desenvolvimento de Software e Inteligência Artificial. 🎓
+
+- **Cursos Completados**:
+
+- Alura Cursos - Adquiri habilidades em diversas áreas, incluindo Desenvolvimento Web, DevOps e mais. 🎓
 
 - **Experiência Profissional:**
   - Analista de Automação de Processos na Positivo Tecnologia S.A. (01/2024 - Presente) - Encarregado do desenvolvimento e manutenção de scripts de automação, resultando na otimização dos processos internos e no aumento da eficiência operacional. 👨‍💻
