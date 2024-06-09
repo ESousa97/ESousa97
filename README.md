@@ -2,18 +2,30 @@
 
 Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) para mais informações! 🔍
 
-- **Cursos**:
+- ## Cursos:
 
-  - Engenharia da Computação (Cursando) - Foco em Desenvolvimento de Software e Inteligência Artificial 🎓
-  - Alura Cursos - Diversos cursos concluídos em Desenvolvimento Web, DevOps e mais 🎓
+  - **Engenharia da Computação (Cursando)** - *Foco em `Web Developer Full Stack`* 🎓
 
-- **Experiência Profissional:**
-  - Analista de Automação de Processos na Positivo Tecnologia S.A. (01/2024 - Presente) - Encarregado do desenvolvimento e manutenção de scripts de automação, resultando na otimização dos processos internos e no aumento da eficiência operacional. 👨‍💻
-  - Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024) - Técnico de Suporte N2 e responsável pela criação de processos inovadores para solucionar e documentar novos problemas. 👨‍💻
+  <br>
+
+  - **Alura Cursos** - *Diversos cursos concluídos em `Desenvolvimento Web` e mais* 🎓
+
+- ## Experiência Profissional:
+  - **Analista de Automação de Processos na Positivo Tecnologia S.A. (01/2024 - Atual)** - *Encarregado do desenvolvimento e manutenção de scripts de automação, resultando na otimização dos processos internos e no aumento da eficiência operacional.* 👨‍💻
+
+  <br>
+
+  - **Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024)** - *Técnico de Suporte N2 e responsável pela criação de processos inovadores para solucionar e documentar novos problemas.* 👨‍💻
+  
+  <br>
 
 > "Computação é uma junção de prática, conhecimento e estudo" - José Sousa
 
+<br>
+
 <h1 align="center">José Sousa</h1>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=dark" width="49%" />
@@ -22,6 +34,8 @@ Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) p
 
 
 ### Tecnologias e Ferramentas
+
+<br>
 
 <div align="center">
 
