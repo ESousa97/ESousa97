@@ -11,17 +11,15 @@ Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) p
   - **Alura Cursos** - *Diversos cursos concluídos em `Desenvolvimento Web` e mais* 🎓
 
 - ## Experiência Profissional:
-  - **Analista de Automação de Processos na Positivo Tecnologia S.A. (01/2024 - Atual)** - *Encarregado do desenvolvimento e manutenção de scripts de automação, resultando na otimização dos processos internos e no aumento da eficiência operacional.* 👨‍💻
+  - **Especialista em Análise e Automação de Processos na Positivo Tecnologia S.A. (01/2024 - Atual)** - *Experiente em tecnologias web como React, JavaScript e Next.js, além de bancos de dados PostgreSQL e MySQL. Habilidades avançadas em linguagens como Python, C# e TypeScript, com capacidade prática para gerenciar servidores. Utiliza ChatGPT para otimizar processos e melhorar eficiências.* 👨‍💻
 
   <br>
 
-  - **Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024)** - *Técnico de Suporte N2 e responsável pela criação de processos inovadores para solucionar e documentar novos problemas.* 👨‍💻
+  - **Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024)** - *Iniciei como estagiário N1, e com 6 meses subi para o cargo de, Técnico de Suporte N2, responsável pela criação de processos inovadores para solucionar e documentar novos problemas.* 👨‍💻
   
   <br>
 
 > "Computação é uma junção de prática, conhecimento e estudo" - José Sousa
-
-<br>
 
 <h1 align="center">José Sousa</h1>
 
