@@ -42,6 +42,12 @@ Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) p
 
 </div>
 
+<div align="center">
+
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=ESousa97.ESousa97)
+
+</div>
+
 ### Contato
 
 <div align="center">
