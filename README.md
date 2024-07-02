@@ -44,7 +44,8 @@ Confira meu [Portifólio](https://portifolio-sousadev97.vercel.app/index.html) p
 
 <div align="center">
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=ESousa97.ESousa97)
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ESousa97&title=Visitas&edge_flat=true)
+
 
 </div>
 
