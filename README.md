@@ -19,7 +19,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
   - Utilização de `ChatGPT` para otimizar processos e melhor eficiência.
 
 - **Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024)**
-  - Iniciei como estagiário N1, e com 6 meses subi para Técnico de Suporte N2.
+  - Iniciei como estagiário N1, e com 4 meses subi para Técnico de Suporte N2.
   - Criação de processos inovadores para solucionar e documentar novos problemas.
 
 ---
