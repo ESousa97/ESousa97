@@ -25,8 +25,8 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 ---
 
 ## Projetos
-- **[Projeto 1](link-do-repositorio):** Descrição em breve do projeto.
-- **[Projeto 2](link-do-repositorio):** Descrição em breve do projeto.
+- **[Projeto 1](https://base-dados-imc.vercel.app/index.html):** Este é o meu primeiro projeto desenvolvido com HTML5, CSS3 e JavaScript. Ele nasceu de uma necessidade específica e foi uma grande oportunidade de aprendizado..
+- **[Projeto 2](https://esdatabase.vercel.app/login):** Como evolução do meu primeiro projeto, este segundo atende à demanda de servir como uma base de dados. Devido à natureza sensível dos dados, foram implementadas várias camadas de segurança.
 - **[Projeto 3](link-do-repositorio):** Descrição em breve do projeto.
 
 ---
