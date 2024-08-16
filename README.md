@@ -13,23 +13,33 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 
 ## Experiência Profissional
 - **Analista de Automação de Processos PL na Positivo Tecnologia S.A. (01/2024 - Atual)**
-  - Experiente em tecnologias web como `Html`, `Css3`, `React`, `NodeJS`, `JavaScript`, `Next.js` e `TypeScript`.
+  - Experiência com tecnologias web como `HTML`, `CSS3`, `React`, `Node.js`, `JavaScript`, `Next.js` e `TypeScript`.
   - Profundo conhecimento em bancos de dados `PostgreSQL`, `MySQL` e `MongoDB`.
-  - Habilidades em linguagens como `Python`, `C#` e `Json`.
-  - Utilização de `ChatGPT` para otimizar processos e melhor eficiência.
+  - Habilidades em linguagens como `Python` e `JSON`.
+  - Utilização de `ChatGPT` para otimização de processos e aumento de eficiência.
 
 - **Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024)**
-  - Iniciei como estagiário N1, e com 4 meses subi para Técnico de Suporte N2.
+  - Iniciei como estagiário N1 e, após 4 meses, fui promovido a Técnico de Suporte N2.
   - Criação de processos inovadores para solucionar e documentar novos problemas.
 
 ---
 
 ## Projetos
-- **[Projeto 1](https://base-dados-imc.vercel.app/index.html):** Este é o meu primeiro projeto desenvolvido com HTML5, CSS3 e JavaScript. Ele nasceu de uma necessidade específica e foi uma grande oportunidade de aprendizado.
-- **[Projeto 2](https://esdatabase.vercel.app/login):** Como evolução do meu primeiro projeto, este segundo atende à demanda de servir como uma base de dados. Devido à natureza sensível dos dados, foram implementadas várias camadas de segurança.
-- **[Projeto 3](link-do-repositorio):** Descrição em breve do projeto.
 
----
+- **[Base dados IMC](https://base-dados-imc.vercel.app/index.html):** 
+  - *Meu primeiro projeto desenvolvido com `HTML5`, `CSS3` e `JavaScript`. Ele foi criado para atender a uma necessidade específica e representou uma excelente oportunidade de aprendizado.*
+
+<br>
+
+- **[ES Data Base](https://esdatabase.vercel.app/login):** 
+  - *Este projeto é uma evolução do meu primeiro trabalho, criado para servir como uma base de dados robusta e segura. Devido à natureza sensível das informações, implementei várias camadas de segurança, garantindo que apenas funcionários autorizados tenham acesso aos dados. As tecnologias utilizadas abrangem tanto o front-end quanto o back-end, incluindo `Next.js`, `NextAuth.js`, `React`, `React Toastify`, `Material-UI`, `CSS Modules`, `Axios`, `DOMPurify`, `Styled Components`, `Vercel`, `Google OAuth`, `Microsoft Azure AD`, `HTML5`, `CSS3`, `JavaScript`, `JSON`, `PostgreSQL`, `Node.js`, `Express.js` e `CORS`. Desenvolvi este projeto integralmente, desde a criação do banco de dados até a interface do usuário, agregando valor à minha equipe por meio de uma solução completa e bem estruturada.*
+
+<br>
+
+- **[Projeto 3](link-do-repositorio):** 
+  - *Descrição em breve.*
+
+<br>
 
 ## Tecnologias e Ferramentas
 
@@ -53,9 +63,11 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 
 </div>
 
----
+<br>
 
 ## Estatísticas do GitHub
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=dark" width="49%" />
@@ -86,5 +98,3 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 ---
 
 ![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ESousa97&title=Visitas&edge_flat=true)
-
----
