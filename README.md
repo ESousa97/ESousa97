@@ -13,10 +13,10 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 
 ## Experiência Profissional
 - **Analista de Automação de Processos PL na Positivo Tecnologia S.A. (01/2024 - Atual)**
-  - Experiência com tecnologias web como `HTML`, `CSS3`, `React`, `Node.js`, `JavaScript`, `Next.js` e `TypeScript`.
-  - Profundo conhecimento em bancos de dados `PostgreSQL`, `MySQL` e `MongoDB`.
-  - Habilidades em linguagens como `Python` e `JSON`.
-  - Utilização de `ChatGPT` para otimização de processos e aumento de eficiência.
+  - Experiência com tecnologias web como **`HTML`**, **`CSS3`**, **`React`**, **`Node.js`**, **`JavaScript`**, **`Next.js`** e **`TypeScript`**.
+  - Profundo conhecimento em bancos de dados **`PostgreSQL`**, **`MySQL`** e **`MongoDB`**.
+  - Habilidades em linguagens como **`Python`** e **`JSON`**.
+  - Utilização de **`ChatGPT`** para otimização de processos e aumento de eficiência.
 
 - **Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024)**
   - Iniciei como estagiário N1 e, após 4 meses, fui promovido a Técnico de Suporte N2.
@@ -27,12 +27,12 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 ## Projetos
 
 - **[Base dados IMC](https://base-dados-imc.vercel.app/index.html):** 
-  - *Meu primeiro projeto desenvolvido com `HTML5`, `CSS3` e `JavaScript`. Ele foi criado para atender a uma necessidade específica e representou uma excelente oportunidade de aprendizado.*
+  - *Meu primeiro projeto desenvolvido com **`HTML5`**, **`CSS3`** e **`JavaScript`**. Ele foi criado para atender a uma necessidade específica e representou uma excelente oportunidade de aprendizado.*
 
 <br>
 
 - **[ES Data Base](https://esdatabase.vercel.app/login):** 
-  - *Este projeto é uma evolução do meu primeiro trabalho, criado para servir como uma base de dados robusta e segura. Devido à natureza sensível das informações, implementei várias camadas de segurança, garantindo que apenas funcionários autorizados tenham acesso aos dados. As tecnologias utilizadas abrangem tanto o front-end quanto o back-end, incluindo `Next.js`, `NextAuth.js`, `React`, `React Toastify`, `Material-UI`, `CSS Modules`, `Axios`, `DOMPurify`, `Styled Components`, `Vercel`, `Google OAuth`, `Microsoft Azure AD`, `HTML5`, `CSS3`, `JavaScript`, `JSON`, `PostgreSQL`, `Node.js`, `Express.js` e `CORS`. Desenvolvi este projeto integralmente, desde a criação do banco de dados até a interface do usuário, agregando valor à minha equipe por meio de uma solução completa e bem estruturada.*
+  - *Este projeto é uma evolução do meu primeiro trabalho, criado para servir como uma base de dados robusta e segura. Devido à natureza sensível das informações, implementei várias camadas de segurança, garantindo que apenas funcionários autorizados tenham acesso aos dados. As tecnologias utilizadas abrangem tanto o front-end quanto o back-end, incluindo **`Next.js`**, **`NextAuth.js`**, **`React`**, **`React Toastify`**, **`Material-UI`**, **`CSS Modules`**, **`Axios`**, **`DOMPurify`**, **`Styled Components`**, **`Vercel`**, **`Google OAuth`**, **`Microsoft Azure AD`**, **`HTML5`**, **`CSS3`**, **`JavaScript`**, **`JSON`**, **`PostgreSQL`**, **`Node.js`**, **`Express.js`** e **`CORS`**. Desenvolvi este projeto integralmente, desde a criação do banco de dados até a interface do usuário, agregando valor à minha equipe por meio de uma solução completa e bem estruturada.*
 
 <br>
 
@@ -43,31 +43,45 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 
 ## Tecnologias e Ferramentas
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-<img alt="JavaScript" height="40" width="40" src="./Assets/javascript_2.png" title="JavaScript"> 
-<img alt="HTML5" height="40" width="40" src="./Assets/html5.png" title="HTML5"> 
-<img alt="CSS3" height="40" width="40" src="./Assets/css3.png" title="CSS3"> 
-<img alt="Git" height="40" width="40" src="./Assets/git.png" title="Git"> 
-<img alt="GitHub" height="40" width="40" src="./Assets/GitHub.png" title="GitHub"> 
-<img alt="Linux" height="40" width="40" src="./Assets/linux.png" title="Linux"> 
-<img alt="React" height="40" width="40" src="./Assets/reactjs.png" title="React"> 
-<img alt="Next.js" height="40" width="40" src="./Assets/nextjs.png" title="Next.js"> 
-<img alt="JSON" height="40" width="40" src="./Assets/json.png" title="JSON"> 
-<img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"> 
-<img alt="MUI" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="MUI"> 
-<img alt="TypeScript" height="40" width="40" src="./Assets/typescript.png" title="TypeScript"> 
-<img alt="Node.js" height="40" width="40" src="./Assets/nodejs.png" title="Node.js">
-<img alt="MongoDB" height="40" width="40" src="./Assets/mongodb.png" title="MongoDB">
-<img alt="Three.js" height="40" width="40" src="./Assets/threejs.png" title="Three.js">
-<img alt="Api Gateway" height="40" width="40" src="./Assets/api.png" title="Api Gateway">
-<img alt="BootStrap" height="40" width="40" src="./Assets/bootstrap.png" title="BootStrap">
-<img alt="MySQL" height="40" width="40" src="./Assets/mysql.png" title="MySQL">
-<img alt="Python" height="40" width="40" src="./Assets/python.png" title="Python">
-<img alt="SQL" height="40" width="40" src="./Assets/sql.png" title="SQL">
-
+  <img alt="JavaScript" height="40" width="40" src="./Assets/javascript_2.png" title="JavaScript" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="HTML5" height="40" width="40" src="./Assets/html5.png" title="HTML5" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="CSS3" height="40" width="40" src="./Assets/css3.png" title="CSS3" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="Git" height="40" width="40" src="./Assets/git.png" title="Git" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="GitHub" height="40" width="40" src="./Assets/GitHub.png" title="GitHub" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="Linux" height="40" width="40" src="./Assets/linux.png" title="Linux" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="React" height="40" width="40" src="./Assets/reactjs.png" title="React" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="Next.js" height="40" width="40" src="./Assets/nextjs.png" title="Next.js" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="JSON" height="40" width="40" src="./Assets/json.png" title="JSON" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="MUI" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="MUI" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="TypeScript" height="40" width="40" src="./Assets/typescript.png" title="TypeScript" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="Node.js" height="40" width="40" src="./Assets/nodejs.png" title="Node.js" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="MongoDB" height="40" width="40" src="./Assets/mongodb.png" title="MongoDB" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="Three.js" height="40" width="40" src="./Assets/threejs.png" title="Three.js" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="Api Gateway" height="40" width="40" src="./Assets/api.png" title="Api Gateway" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="BootStrap" height="40" width="40" src="./Assets/bootstrap.png" title="BootStrap" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="MySQL" height="40" width="40" src="./Assets/mysql.png" title="MySQL" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="Python" height="40" width="40" src="./Assets/python.png" title="Python" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+  <img alt="SQL" height="40" width="40" src="./Assets/sql.png" title="SQL" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
 
 </div>
+
+<script>
+  const icons = document.querySelectorAll('img');
+  icons.forEach(icon => {
+    icon.addEventListener('mouseover', () => {
+      icon.style.transform = 'scale(1.1) translateY(-5px)';
+      icon.style.boxShadow = '0px 4px 15px rgba(0, 0, 0, 0.2)';
+    });
+    icon.addEventListener('mouseout', () => {
+      icon.style.transform = 'scale(1)';
+      icon.style.boxShadow = 'none';
+    });
+  });
+</script>
+
 
 <br>
 
