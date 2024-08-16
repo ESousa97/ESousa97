@@ -68,20 +68,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 
 </div>
 
-<script>
-  const icons = document.querySelectorAll('img');
-  icons.forEach(icon => {
-    icon.addEventListener('mouseover', () => {
-      icon.style.transform = 'scale(1.1) translateY(-5px)';
-      icon.style.boxShadow = '0px 4px 15px rgba(0, 0, 0, 0.2)';
-    });
-    icon.addEventListener('mouseout', () => {
-      icon.style.transform = 'scale(1)';
-      icon.style.boxShadow = 'none';
-    });
-  });
-</script>
-
 
 <br>
 
