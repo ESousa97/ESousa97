@@ -28,7 +28,7 @@ Sou um **Analista de Suporte Pleno** com experiência em automação de processo
 📍 *São Paulo, Brasil*
 
 - **Liderança de Processos:** Responsável por criação, automação e documentação de incidentes técnicos.
-- **Suporte Técnico N2/N3:** Resolução de problemas técnicos complexos para Field Service.
+- **Suporte Técnico N2:** Resolução de problemas técnicos complexos para Field Service.
 - **Gerenciamento de Sistemas:** *Degust, Aloha e Alive*.
 - **Desenvolvimento Full Stack:** Manutenção de bases de dados e desenvolvimento de soluções web.
 
