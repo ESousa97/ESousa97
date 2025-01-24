@@ -16,68 +16,71 @@ Sou um **Analista de Suporte Pleno** com experiência em automação de processo
 ### **Positivo Tecnologia S.A.**
 #### 🔹 Analista de Suporte Pleno  
 📅 *Nov 2024 - Atual (3 meses)*  
-📍 *Curitiba, Paraná, Brasil - Remoto*
+📍 *São Paulo, Brasil - Remoto*
 
-- **Liderança de Equipe:** Coordeno a criação, automação, documentação e resolução de incidentes técnicos, abrangendo casos de baixa a alta complexidade.
+- **Liderança de Equipe:** Coordeno a criação, automação, documentação e resolução de incidentes técnicos.
 - **Melhoria Contínua:** Promovo melhorias constantes nas equipes de Nível 1 e Nível 2, garantindo eficiência e excelência operacional.
-- **Suporte Especializado:** Forneço suporte especializado à International Meal Company (IMC) e gerencio incidentes para os sistemas da Linx e E-Deploy.
-- **Atendimento a Redes de Lojas:** Atendo uma ampla rede de lojas, incluindo *Frango Assado, Viena, Batata Inglesa, KFC e Pizza Hut* em todo o Brasil.
-- **Suporte para Field Service:** Ofereço suporte avançado para técnicos de campo, solucionando problemas técnicos críticos e assegurando a eficácia das soluções implementadas.
+- **Suporte Especializado:** Forneço suporte à International Meal Company (IMC) e gerencio incidentes para os sistemas da Linx e E-Deploy.
+- **Atendimento a Redes de Lojas:** Atendo redes como *Frango Assado, Viena, Batata Inglesa, KFC e Pizza Hut*.
 
 #### 🔹 Analista de Automação de Processos Pleno  
 📅 *Jan 2024 - Nov 2024 (11 meses)*  
 📍 *São Paulo, Brasil*
 
-- **Liderança de Processos:** Responsável pela criação, automação, documentação e resolução de incidentes técnicos.
-- **Suporte Técnico N2/N3:** Auxilio na resolução de problemas técnicos complexos para Field Service, garantindo a eficácia das soluções aplicadas.
-- **Gerenciamento de Sistemas:** Gerencio incidentes e forneço suporte técnico para os sistemas *Degust, Aloha e Alive*.
-- **Desenvolvimento Full Stack:** Criação e manutenção de bases de dados e desenvolvimento de soluções web.
-- **Especialização em Windows:** Foco na configuração e otimização de redes e infraestruturas de TI em ambientes *Windows e Windows Server*.
+- **Liderança de Processos:** Responsável por criação, automação e documentação de incidentes técnicos.
+- **Suporte Técnico N2/N3:** Resolução de problemas técnicos complexos para Field Service.
+- **Gerenciamento de Sistemas:** *Degust, Aloha e Alive*.
+- **Desenvolvimento Full Stack:** Manutenção de bases de dados e desenvolvimento de soluções web.
 
 ### **Tecnocomp Tecnologia e Serviços**
 #### 🔹 Analista de Suporte N2  
 📅 *Nov 2022 - Jan 2024 (1 ano 3 meses)*  
-📍 *São Bernardo do Campo, São Paulo, Brasil - Híbrido*
+📍 *São Bernardo do Campo, SP - Híbrido*
 
-- **Atendimento de Segundo Nível:** Prestava suporte direto à *International Meal Company* no ServiceDesk.
-- **Gerenciamento de Incidentes:** Forneci suporte técnico para os sistemas *Degust, Aloha e Alive*.
-- **Liderança de Processos:** Criação e documentação de procedimentos e liderança na resolução de problemas.
-- **Instalação e Padronização:** Configuração de servidores e terminais antes da implementação dos sistemas.
-- **Configurações de Rede:** Especializado em *Windows Server*, TCP/IP, redes e métricas de desempenho.
+- **Atendimento de Segundo Nível:** Suporte à *International Meal Company* no ServiceDesk.
+- **Gerenciamento de Incidentes:** Suporte técnico para os sistemas *Degust, Aloha e Alive*.
+- **Liderança de Processos:** Criação e documentação de procedimentos e padronização de servidores.
 
 #### 🔹 Service Desk - Estágio  
 📅 *Jul 2022 - Nov 2022 (5 meses)*  
-📍 *São Bernardo do Campo, São Paulo, Brasil - Presencial*
+📍 *São Bernardo do Campo, SP - Presencial*
 
-- **Suporte Técnico N1:** Atendimento e resolução de processos de baixa complexidade.
-- **Gerenciamento de Incidentes:** Suporte para sistemas *Degust, Aloha e Alive*.
-- **Suporte às Lojas Olive Garden:** Atendimento às lojas antes de sua saída do grupo IMC.
+- **Suporte Técnico N1:** Atendimento e resolução de incidentes de baixa complexidade.
 
 ---
 
 ## 📌 Projetos
 
 - **[Base de Dados IMC](https://base-dados-imc.vercel.app/index.html)**  
-  - *Projeto inicial desenvolvido com **HTML5, CSS3 e JavaScript** para atender a uma necessidade específica e impulsionar aprendizado.*
+  - *Projeto inicial com **HTML5, CSS3 e JavaScript** para atender demandas internas.*
 
 - **[ES Data Base](https://www.esdatabase.com.br/)**  
-  - *Projeto avançado com múltiplas camadas de segurança, garantindo acesso restrito a funcionários autorizados.*  
-  - *Tecnologias utilizadas:* **Next.js, NextAuth.js, React, Material-UI, PostgreSQL, Node.js, Express.js** e mais.
-
-- **[Projeto 3](link-do-repositorio)**  
-  - *Descrição em breve.*
+  - *Plataforma robusta e segura com múltiplas camadas de autenticação e segurança.*  
+  - *Tecnologias:* **Next.js, React, PostgreSQL, Node.js, Express.js**.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-| Tecnologia | Tecnologia | Tecnologia |
-|------------|------------|------------|
-| ![JavaScript](./Assets/javascript_2.png) JavaScript | ![HTML5](./Assets/html5.png) HTML5 | ![CSS3](./Assets/css3.png) CSS3 |
-| ![React](./Assets/reactjs.png) React | ![Next.js](./Assets/nextjs.png) Next.js | ![TypeScript](./Assets/typescript.png) TypeScript |
-| ![Node.js](./Assets/nodejs.png) Node.js | ![MongoDB](./Assets/mongodb.png) MongoDB | ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL |
-| ![MySQL](./Assets/mysql.png) MySQL | ![Python](./Assets/python.png) Python | ![Linux](./Assets/linux.png) Linux |
-| ![Git](./Assets/git.png) Git | ![GitHub](./Assets/GitHub.png) GitHub | ![Bootstrap](./Assets/bootstrap.png) Bootstrap |
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</div>
 
 ---
 
