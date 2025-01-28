@@ -25,7 +25,7 @@ Sou um **Analista de Suporte Pleno** com experiência em automação de processo
 
 #### 🔹 Analista de Automação de Processos Pleno  
 📅 *Jan 2024 - Nov 2024 (11 meses)*  
-📍 *São Paulo, Brasil*
+📍 *São Paulo, Brasil - Remoto*
 
 - **Liderança de Processos:** Responsável por criação, automação e documentação de incidentes técnicos.
 - **Suporte Técnico N2:** Resolução de problemas técnicos complexos para Field Service.
