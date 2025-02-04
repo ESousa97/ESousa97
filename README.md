@@ -21,7 +21,7 @@ Sou um **Analista de Suporte Pleno** com experiência em automação de processo
 - **Liderança de Equipe:** Coordeno a criação, automação, documentação e resolução de incidentes técnicos.
 - **Melhoria Contínua:** Promovo melhorias constantes nas equipes de Nível 1 e Nível 2, garantindo eficiência e excelência operacional.
 - **Suporte Especializado:** Forneço suporte à International Meal Company (IMC) e gerencio incidentes para os sistemas da Linx e E-Deploy.
-- **Atendimento a Redes de Lojas:** Atendo redes como *Frango Assado, Viena, Batata Inglesa, KFC e Pizza Hut*.
+- **Atendimento a Redes de Lojas:** Atendo redes como *Frango Assado, Viena, Batata Inglesa, KFC, Pizza Hut e RA Catering*.
 
 #### 🔹 Analista de Automação de Processos Pleno  
 📅 *Jan 2024 - Nov 2024 (11 meses)*  
