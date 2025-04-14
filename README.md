@@ -79,4 +79,4 @@ Aqui estão alguns dos projetos que fazem parte do meu ecossistema Full Stack:
 
 ---
 
-![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ESousa97&title=Visitas&edge_flat=true)
+![Profile Views](https://komarev.com/ghpvc/?username=ESousa97&color=blue)
