@@ -1,79 +1,59 @@
-# Bem-vindo ao perfil de [José Sousa](https://www.linkedin.com/in/enoque-sousa-bb89aa168/) 😃️
+# 👋 Olá, eu sou o **José Sousa**
 
-## Sobre Mim
-Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Com experiência em diversas tecnologias web, estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.
+Sou um **Analista de Suporte Pleno** com paixão por **automação de processos, desenvolvimento Full Stack** e soluções de alto impacto. Atuo com excelência na criação de sistemas inteligentes, interfaces modernas e pipelines completos — do front-end ao back-end — tudo com foco em desempenho, segurança e experiência do usuário.
 
----
-
-## Educação
-- **Engenharia da Computação (Cursando)** - *FMU* 🎓
-- **Alura Cursos** - *Diversos cursos concluídos em `Desenvolvimento Web` e mais* 🎓
+> 🎯 Transformo problemas complexos em soluções eficientes com código limpo, modular e escalável.
 
 ---
 
-## Experiência Profissional
-- **Analista de Automação de Processos PL na Positivo Tecnologia S.A. (01/2024 - Atual)**
-  - Experiência com tecnologias web como **`HTML`**, **`CSS3`**, **`React`**, **`Node.js`**, **`JavaScript`**, **`Next.js`** e **`TypeScript`**.
-  - Profundo conhecimento em bancos de dados **`PostgreSQL`**, **`MySQL`** e **`MongoDB`**.
-  - Habilidades em linguagens como **`Python`** e **`JSON`**.
-  - Utilização de **`ChatGPT`** para otimização de processos e aumento de eficiência.
+## 💡 Destaques do Meu Portfólio
 
-- **Tecnocomp Tecnologia e Serviços (07/2022 - 01/2024)**
-  - Iniciei como estagiário N1 e, após 4 meses, fui promovido a Técnico de Suporte N2.
-  - Criação de processos inovadores para solucionar e documentar novos problemas.
+Aqui estão alguns dos projetos que fazem parte do meu ecossistema Full Stack:
+
+### 🔗 [Portfólio Pessoal](https://portifolio21.vercel.app)
+> Minha vitrine principal: navegação fluida, responsiva e repleta de animações.
 
 ---
 
-## Projetos
+### 🧩 [Projportfólio](https://esdatabasev2.vercel.app/components)
+> Sistema dinâmico com cards interativos, uploader de imagens com integração ao GitHub, listagens temáticas e visualização organizada.
 
-- **[Base dados IMC](https://base-dados-imc.vercel.app/index.html):** 
-  - *Meu primeiro projeto desenvolvido com **`HTML5`**, **`CSS3`** e **`JavaScript`**. Ele foi criado para atender a uma necessidade específica e representou uma excelente oportunidade de aprendizado.*
+---
 
-<br>
+### 🛠️ Projmanager (privado)
+> Painel administrativo com edição em tempo real, preview com markdown customizado, controle de autenticação JWT e sistema de diretórios.
 
-- **[ES Data Base](https://esdatabase.vercel.app/login):** 
-  - *Este projeto é uma evolução do meu primeiro trabalho, criado para servir como uma base de dados robusta e segura. Devido à natureza sensível das informações, implementei várias camadas de segurança, garantindo que apenas funcionários autorizados tenham acesso aos dados. As tecnologias utilizadas abrangem tanto o front-end quanto o back-end, incluindo **`Next.js`**, **`NextAuth.js`**, **`React`**, **`React Toastify`**, **`Material-UI`**, **`CSS Modules`**, **`Axios`**, **`DOMPurify`**, **`Styled Components`**, **`Vercel`**, **`Google OAuth`**, **`Microsoft Azure AD`**, **`HTML5`**, **`CSS3`**, **`JavaScript`**, **`JSON`**, **`PostgreSQL`**, **`Node.js`**, **`Express.js`** e **`CORS`**. Desenvolvi este projeto integralmente, desde a criação do banco de dados até a interface do usuário, agregando valor à minha equipe por meio de uma solução completa e bem estruturada.*
+---
 
-<br>
+### 🧠 Back-end Node + PostgreSQL (privado)
+> API robusta com Express + Sequelize, JWT com refresh tokens, CSRF protection, logs com Winston, deploy na AWS via Render e Vercel.
 
-- **[Projeto 3](link-do-repositorio):** 
-  - *Descrição em breve.*
+---
 
-<br>
+## 🛠️ Tecnologias e Ferramentas
 
-## Tecnologias e Ferramentas
+<div align="center">
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-
-  <img alt="JavaScript" height="40" width="40" src="./Assets/javascript_2.png" title="JavaScript" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="HTML5" height="40" width="40" src="./Assets/html5.png" title="HTML5" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="CSS3" height="40" width="40" src="./Assets/css3.png" title="CSS3" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="Git" height="40" width="40" src="./Assets/git.png" title="Git" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="GitHub" height="40" width="40" src="./Assets/GitHub.png" title="GitHub" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="Linux" height="40" width="40" src="./Assets/linux.png" title="Linux" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="React" height="40" width="40" src="./Assets/reactjs.png" title="React" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="Next.js" height="40" width="40" src="./Assets/nextjs.png" title="Next.js" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="JSON" height="40" width="40" src="./Assets/json.png" title="JSON" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="MUI" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="MUI" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="TypeScript" height="40" width="40" src="./Assets/typescript.png" title="TypeScript" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="Node.js" height="40" width="40" src="./Assets/nodejs.png" title="Node.js" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="MongoDB" height="40" width="40" src="./Assets/mongodb.png" title="MongoDB" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="Three.js" height="40" width="40" src="./Assets/threejs.png" title="Three.js" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="Api Gateway" height="40" width="40" src="./Assets/api.png" title="Api Gateway" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="BootStrap" height="40" width="40" src="./Assets/bootstrap.png" title="BootStrap" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="MySQL" height="40" width="40" src="./Assets/mysql.png" title="MySQL" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="Python" height="40" width="40" src="./Assets/python.png" title="Python" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
-  <img alt="SQL" height="40" width="40" src="./Assets/sql.png" title="SQL" style="transition: transform 0.3s ease, box-shadow 0.3s ease;"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
+---
 
-<br>
-
-## Estatísticas do GitHub
-
-<br>
+## 📈 Estatísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=dark" width="49%" />
@@ -82,24 +62,20 @@ Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e efi
 
 ---
 
-## Contato
+## 📬 Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/enoque-sousa-bb89aa168/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sousa3086@outlook.com">
-    <img src="https://img.shields.io/badge/Email-sousa3086%40outlook.com-blue?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-sousa3086%40outlook.com-blue?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" />
   </a>
 </div>
 
 ---
 
-<div align="center">
-
 ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
