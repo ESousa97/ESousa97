@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+IA;Automação+de+Processos;Engenheiro+de+Infraestrutura" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <a href="https://portifolio21.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=vercel&logoColor=white&labelColor=000" alt="Portfólio"/></a>
-  <a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
-</p>
+<div align="center">
+  <a href="https://portifolio21.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000" alt="Portfólio"/></a>
+  <a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+</div>
 
 ---
 
@@ -16,113 +16,195 @@
 
 **Analista de Suporte Sênior** experiente, especializado em **desenvolvimento full-stack**, **integração de IA** e **automação empresarial**. Histórico comprovado de entrega de soluções escaláveis, incluindo sistemas que já registraram **mais de 10.000 acessos mensais** com 99,9% de disponibilidade. Especialista em tecnologias web modernas, infraestrutura em nuvem e automação inteligente de processos.
 
-### Competências Principais
-- **Arquitetura Full-Stack**: Ecossistema React, Node.js, PostgreSQL, MongoDB
-- **Integração de IA**: Google Gemini API, documentação automatizada, geração inteligente de conteúdo
-- **Infraestrutura em Nuvem**: AWS, Docker, pipelines CI/CD, microserviços
-- **Automação de Processos**: Python, PowerShell, integração de sistemas empresariais
+### 🔧 Competências Principais
+
+<div align="center">
+
+| **Área** | **Tecnologias** |
+|:--------:|:---------------:|
+| **🚀 Full-Stack** | React, Node.js, PostgreSQL, MongoDB |
+| **🤖 IA & Automação** | Google Gemini API, Python, Documentação Inteligente |
+| **☁️ Cloud & DevOps** | AWS, Docker, CI/CD, Microserviços |
+| **⚡ Sistemas** | PowerShell, APIs Windows, Integração Empresarial |
+
+</div>
 
 ---
 
 ## 🏗️ Projetos em Destaque
 
-### 🤖 Soluções Baseadas em IA
+### 🤖 **Soluções Baseadas em IA**
 
-#### [Plataforma InstaBytes](https://github.com/ESousa97/Instabytes-Front-End-Imersao-Alura-Google)
-- **Descrição**: Plataforma social com integração de **IA Google Gemini**
-- **Funcionalidades**: 
-  - Geração automática de legendas para imagens
-  - Interações em tempo real e capacidades PWA
-- **Tecnologias**: React 19, TypeScript, Gemini API
+<table>
+<tr>
+<td width="50%">
 
-#### [Gerador de README com IA](https://readme-generate.onrender.com)
-- **Descrição**: Geração inteligente de documentação
-- **Funcionalidades**: 
-  - Múltiplos estilos de saída (Profissional, Tutorial, Minimalista)
-  - Backend **FastAPI** com arquitetura serverless
-- **Tecnologias**: FastAPI, Python, Gemini API, Tailwind CSS
+**🌟 [InstaBytes Platform](https://github.com/ESousa97/Instabytes-Front-End-Imersao-Alura-Google)**
 
-### 🏢 Soluções Empresariais
+Plataforma social com integração de **IA Google Gemini**
 
-#### [Sistema ES Database](https://github.com/ESousa97/serverdatabase)
-- **Descrição**: Plataforma de gestão de conhecimento empresarial
-- **Histórico**: Sistema que **registrou mais de 10.000 acessos mensais** durante operação ativa
-- **Funcionalidades**: 
-  - Autenticação JWT com refresh tokens
-  - Sistema de gestão completo
-  - Atualmente disponível versão demo com dados mock
-- **Tecnologias**: Node.js, PostgreSQL, Docker, AWS
+**Principais Features:**
+- ✨ Geração automática de legendas
+- ⚡ Interações em tempo real
+- 📱 Capacidades PWA
 
-#### [Suite de Automação de Processos](https://github.com/ESousa97/instalacao-python-automation)
-- **Descrição**: Automação de infraestrutura Windows
-- **Funcionalidades**: 
-  - Arquitetura multi-janela com IPC
-  - Implantação empresarial em escala
-- **Tecnologias**: Python, PyQt5, APIs Windows
+**Stack:** React 19 • TypeScript • Gemini API
 
-### 📊 Análise de Dados e Visualização
+</td>
+<td width="50%">
 
-#### [GitVision Pro](https://project-zero-seven.vercel.app)
-- **Descrição**: Plataforma avançada de analytics para GitHub
-- **Funcionalidades**: 
-  - Métricas em tempo real e gamificação
-  - Visualizações interativas de dados
-- **Tecnologias**: React 19, TypeScript, Recharts
+**📝 [README Generator AI](https://readme-generate.onrender.com)**
 
-#### [Dashboard Interativo de Análise Salarial](https://imersao-python-alura-agosto-2025-final-gumdpf57y4ajbfwfhmzhsx.streamlit.app)
-- **Descrição**: Plataforma completa de análise salarial
-- **Funcionalidades**: 
-  - Mais de 15 tipos de visualizações com Plotly
-  - Sistema de filtragem multidimensional
-- **Tecnologias**: Streamlit, Pandas, Plotly
+Geração inteligente de documentação
+
+**Principais Features:**
+- 🎨 Múltiplos estilos de saída
+- ⚡ Backend FastAPI serverless
+- 🚀 Interface moderna
+
+**Stack:** FastAPI • Python • Gemini API • Tailwind
+
+</td>
+</tr>
+</table>
+
+### 🏢 **Soluções Empresariais**
+
+<table>
+<tr>
+<td width="50%">
+
+**💼 [ES Database System](https://github.com/ESousa97/serverdatabase)**
+
+Plataforma de gestão de conhecimento empresarial
+
+**Métricas:**
+- 📊 **10.000+ acessos mensais** (histórico)
+- 🔐 Autenticação JWT completa
+- 🎯 Atualmente: versão demo com mock
+
+**Stack:** Node.js • PostgreSQL • Docker • AWS
+
+</td>
+<td width="50%">
+
+**🔧 [Suite de Automação](https://github.com/ESousa97/instalacao-python-automation)**
+
+Automação de infraestrutura Windows
+
+**Funcionalidades:**
+- 🖥️ Arquitetura multi-janela com IPC
+- 🏢 Implantação empresarial
+- ⚙️ Automação completa de processos
+
+**Stack:** Python • PyQt5 • APIs Windows
+
+</td>
+</tr>
+</table>
+
+### 📊 **Análise de Dados e Visualização**
+
+<table>
+<tr>
+<td width="50%">
+
+**📈 [GitVision Pro](https://project-zero-seven.vercel.app)**
+
+Plataforma avançada de analytics GitHub
+
+**Funcionalidades:**
+- 📊 Métricas em tempo real
+- 🏆 Sistema de gamificação
+- 📱 Visualizações interativas
+
+**Stack:** React 19 • TypeScript • Recharts
+
+</td>
+<td width="50%">
+
+**💰 [Dashboard Análise Salarial](https://imersao-python-alura-agosto-2025-final-gumdpf57y4ajbfwfhmzhsx.streamlit.app)**
+
+Plataforma completa de análise salarial
+
+**Recursos:**
+- 📊 15+ tipos de visualizações Plotly
+- 🔍 Sistema de filtragem avançado
+- 📈 Análise multidimensional
+
+**Stack:** Streamlit • Pandas • Plotly
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
-```
-Linguagens     TypeScript, JavaScript ES2022, HTML5, CSS3
-Frameworks     React 18/19, Next.js 14, Three.js
-Estilização    Tailwind CSS, Material-UI, Styled Components, SASS
-Animação       Framer Motion, GSAP, CSS Keyframes
-Ferramentas    Vite, Webpack, ESLint, PostCSS
-```
+<details>
+<summary><b>🎨 Frontend & UI/UX</b></summary>
+<br>
 
-### Backend e Banco de Dados
+```yaml
+Linguagens:     TypeScript • JavaScript ES2022 • HTML5 • CSS3
+Frameworks:     React 18/19 • Next.js 14 • Three.js
+Estilização:    Tailwind CSS • Material-UI • Styled Components • SASS
+Animação:       Framer Motion • GSAP • CSS Keyframes
+Build Tools:    Vite • Webpack • ESLint • PostCSS
 ```
-Runtime        Node.js, Express.js, FastAPI
-Bancos         PostgreSQL, MongoDB, SQLite
-ORMs           Sequelize, Mongoose, Prisma
-APIs           REST, GraphQL, WebSockets (Socket.IO)
-Autenticação   JWT, OAuth 2.0, NextAuth.js, Proteção CSRF
-```
+</details>
 
-### IA e Ciência de Dados
-```
-Linguagens     Python 3.9+, SQL
-APIs de IA     Google Gemini, OpenAI GPT-4
-Bibliotecas    Pandas, NumPy, Plotly, Streamlit
-ML Tools       TensorFlow, scikit-learn
-Automação      Engenharia de Prompts, Processamento NLP
-```
+<details>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
 
-### Infraestrutura e DevOps
+```yaml
+Runtime:        Node.js • Express.js • FastAPI
+Bancos:         PostgreSQL • MongoDB • SQLite
+ORMs:           Sequelize • Mongoose • Prisma
+APIs:           REST • GraphQL • WebSockets (Socket.IO)
+Auth:           JWT • OAuth 2.0 • NextAuth.js • CSRF Protection
 ```
-Nuvem          AWS (ECS, RDS, ALB), Vercel, Render
-Containers     Docker, Docker Compose
-CI/CD          GitHub Actions, Vercel Deployments
-Monitoramento  Winston Logging, Sentry Error Tracking
-Segurança      Helmet, Rate Limiting, HTTPS, SSL/TLS
-```
+</details>
 
-### Desktop e Automação
+<details>
+<summary><b>🤖 IA & Data Science</b></summary>
+<br>
+
+```yaml
+Linguagens:     Python 3.9+ • SQL
+APIs de IA:     Google Gemini • OpenAI GPT-4
+Bibliotecas:    Pandas • NumPy • Plotly • Streamlit
+ML Tools:       TensorFlow • scikit-learn
+Automação:      Prompt Engineering • NLP Processing
 ```
-Frameworks     PyQt5, CustomTkinter, Electron
-Scripts        PowerShell, Batch, Shell Script
-APIs Windows   WMI, Registry, COM Objects
-Sistemas       Administração Linux, Windows Server
+</details>
+
+<details>
+<summary><b>☁️ Infraestrutura & DevOps</b></summary>
+<br>
+
+```yaml
+Cloud:          AWS (ECS, RDS, ALB) • Vercel • Render
+Containers:     Docker • Docker Compose
+CI/CD:          GitHub Actions • Vercel Deployments
+Monitoring:     Winston Logging • Sentry Error Tracking
+Security:       Helmet • Rate Limiting • HTTPS • SSL/TLS
 ```
+</details>
+
+<details>
+<summary><b>🖥️ Desktop & Automação</b></summary>
+<br>
+
+```yaml
+Frameworks:     PyQt5 • CustomTkinter • Electron
+Scripts:        PowerShell • Batch • Shell Script
+APIs Windows:   WMI • Registry • COM Objects
+Sistemas:       Linux Administration • Windows Server
+```
+</details>
 
 ---
 
@@ -130,28 +212,33 @@ Sistemas       Administração Linux, Windows Server
 
 <div align="center">
 
-| Métrica | Conquista |
-|:-------:|:---------:|
-| **Projetos Entregues** | 39+ Aplicações em Produção |
-| **Tráfego Gerenciado** | Sistemas com 10.000+ Acessos Mensais |
-| **Disponibilidade** | 99,9% de Uptime em Produção |
-| **Performance** | Tempo de Resposta Médio <200ms |
-| **Qualidade do Código** | Cobertura de Testes >95% |
+<table>
+<tr>
+<td align="center"><b>📦 Projetos<br>Entregues</b><br><span style="font-size: 24px; color: #2d7ff9;">39+</span><br>Aplicações em Produção</td>
+<td align="center"><b>🚀 Tráfego<br>Gerenciado</b><br><span style="font-size: 24px; color: #2d7ff9;">10.000+</span><br>Acessos Mensais</td>
+<td align="center"><b>⚡ Disponibilidade</b><br><span style="font-size: 24px; color: #2d7ff9;">99.9%</span><br>Uptime em Produção</td>
+</tr>
+<tr>
+<td align="center"><b>⚡ Performance</b><br><span style="font-size: 24px; color: #2d7ff9;">&lt;200ms</span><br>Tempo de Resposta</td>
+<td align="center"><b>🧪 Qualidade</b><br><span style="font-size: 24px; color: #2d7ff9;">95%+</span><br>Cobertura de Testes</td>
+<td align="center"><b>🔧 Tecnologias</b><br><span style="font-size: 24px; color: #2d7ff9;">20+</span><br>Stacks Dominadas</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎓 Educação e Aprendizado Contínuo
+## 🎓 Educação e Desenvolvimento
 
-**Engenharia da Computação** - *Em Andamento*  
-Foco: Arquitetura de Software, Sistemas Distribuídos, Machine Learning
+**🎓 Engenharia da Computação** - *Em Andamento*  
+*Foco: Arquitetura de Software • Sistemas Distribuídos • Machine Learning*
 
-**Desenvolvimento Profissional**
-- Padrões Avançados em React & Next.js
-- Arquitetura em Nuvem (AWS Solutions Architect)
-- Engenharia AI/ML com Python
-- Melhores Práticas de Segurança Empresarial
+**📚 Certificações e Cursos Recentes**
+- ⚛️ Advanced React & Next.js Patterns
+- ☁️ Cloud Architecture (AWS Solutions Architect)
+- 🤖 AI/ML Engineering com Python  
+- 🔒 Enterprise Security Best Practices
 
 ---
 
@@ -168,7 +255,7 @@ Foco: Arquitetura de Software, Sistemas Distribuídos, Machine Learning
 
 ---
 
-## 🌟 Contribuições Open Source
+## 🌟 Atividade Open Source
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&theme=github-compact&hide_border=true&bg_color=0d1117&color=2d7ff9&line=2d7ff9&point=ffffff" width="100%"/>
@@ -178,19 +265,26 @@ Foco: Arquitetura de Software, Sistemas Distribuídos, Machine Learning
 
 ## 📝 Últimos Posts do Blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Construindo Aplicações React Escaláveis com Arquitetura Moderna](https://portifolio21.vercel.app/blog/react-architecture)
-- [Integração de IA no Desenvolvimento Web: Um Guia Prático](https://portifolio21.vercel.app/blog/ai-integration)
-- [Otimizando Performance do Node.js para Aplicações Empresariais](https://portifolio21.vercel.app/blog/nodejs-optimization)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+| 📖 **Artigo** | 🗓️ **Tópico** |
+|:--------------|:---------------|
+| [Arquitetura React Moderna](https://portifolio21.vercel.app/blog/react-architecture) | Construindo Aplicações Escaláveis |
+| [IA no Desenvolvimento Web](https://portifolio21.vercel.app/blog/ai-integration) | Guia Prático de Integração |
+| [Node.js Performance](https://portifolio21.vercel.app/blog/nodejs-optimization) | Otimização para Empresas |
+
+</div>
 
 ---
 
-## 🤝 Vamos nos Conectar
+## 🤝 Conecte-se Comigo
 
 <div align="center">
-  
-**Disponível para projetos freelance, consultoria e oportunidades de colaboração**
+
+### 💼 **Disponível para:**
+**Projetos Freelance • Consultoria • Colaborações**
+
+<br>
 
 <a href="https://portifolio21.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfólio-Conheça_Meu_Trabalho-2d7ff9?style=for-the-badge&labelColor=0d1117" alt="Portfólio"/>
@@ -212,12 +306,10 @@ Foco: Arquitetura de Software, Sistemas Distribuídos, Machine Learning
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2d7ff9&height=100&section=footer" width="100%"/>
 </div>
 
----
-
-<img src="https://komarev.com/ghpvc/?username=ESousa97&style=for-the-badge&color=2d7ff9&labelColor=1a365d" alt="Visualizações do Perfil"/>
-
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ESousa97&style=for-the-badge&color=2d7ff9&labelColor=1a365d" alt="Visualizações do Perfil"/>
+</div>
 
 <div align="center">
-  <sub>Desenvolvido com ❤️ por José Enoque | Última atualização: Janeiro 2025</sub>
+  <sub>💙 Desenvolvido com dedicação por José Enoque | 🔄 Última atualização: Agosto 2025</sub>
 </div>
