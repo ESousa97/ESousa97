@@ -14,7 +14,7 @@
 
 ## 🎯 Perfil Profissional
 
-**Analista de Suporte Sênior** experiente, especializado em **desenvolvimento full-stack**, **integração de IA** e **automação empresarial**. Histórico comprovado de entrega de soluções escaláveis, incluindo sistemas que já registraram **mais de 10.000 acessos mensais** com 99,9% de disponibilidade. Especialista em tecnologias web modernas, infraestrutura em nuvem e automação inteligente de processos.
+**Analista de Suporte Pleno** experiente, especializado em **desenvolvimento full-stack**, **integração de IA** e **automação empresarial**. Histórico comprovado de entrega de soluções escaláveis, incluindo sistemas que já registraram **mais de 10.000 acessos mensais** com 99,9% de disponibilidade. Especialista em tecnologias web modernas, infraestrutura em nuvem e automação inteligente de processos.
 
 ### 🔧 Competências Principais
 
