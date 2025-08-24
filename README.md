@@ -170,7 +170,7 @@ Experiência corporativa com foco em **clareza e consistência**, garantindo fá
   Automação Corporativa • Desenvolvimento Full-Stack • Integração com IA • Infraestrutura Windows
   <br><br>
   <p align="center">
-    <a href="https://portifolio21.vercel.app" target="_blank">
+    <a href="https://enoquesousa.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfólio"/>
     </a>
     <a href="https://github.com/ESousa97" target="_blank">
