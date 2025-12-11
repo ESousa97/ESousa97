@@ -1,221 +1,181 @@
-# José Enoque | Analista de Suporte Pleno
+# José Enoque Costa de Sousa
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2D7FF9&center=true&vCenter=true&width=700&lines=Profissional+em+T;Automação+%26+Desenvolvimento;Infraestrutura+%2B+IA;Early+Adopter+desde+2022" alt="Typing SVG" />
-</div>
+**Support Lead Analyst** · Automation · Infrastructure · Observability
 
-<div align="center">
-  <a href="https://enoquesousa.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfólio"/>
-  </a>
-  <a href="https://github.com/ESousa97" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/enoque-sousa-bb89aa168" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sousa3086@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0d1117" alt="Outlook"/>
-  </a>
-</div>
-
----
-
-## 🎯 Profissional em T
-
-**Base Horizontal (ampla):** Infraestrutura Windows, suporte corporativo, automação de processos e inteligência artificial desde 2022.
-**Profundidade Vertical (especialização):** Desenvolvimento Full-Stack e integração avançada com IA.
-
-Unindo **infraestrutura corporativa** a **desenvolvimento moderno**, entrego soluções completas que vão da documentação técnica à implantação de aplicações escaláveis, sempre com foco em automação, eficiência e inovação.
-
----
-
-### 🔄 Visão Horizontal
-
-* **Infraestrutura Windows:** Experiência em Windows Server, Windows 10/11 e Linux Ubuntu (1 ano), incluindo instalação de periféricos, impressoras, dispositivos de pagamento e ajustes de drivers.
-* **Suporte Técnico Avançado:** Atuação em N1, N2 e N3, com manutenção de terminais, atualização de firmware/BIOS, formatação e configuração de equipamentos.
-* **Implantação & Automação:** Implantação de novos sistemas, criação de imagens Windows automatizadas e automação com **PowerShell 7, Batch Script, Shell Script, VBS e Python**.
-* **IA Early Adopter:** Experiência com **ChatGPT (desde 2022)**, **Gemini (2023)**, **Claude (2025)** e **Lovable (2025)**, aplicando inteligência artificial em integrações e automações corporativas.
-
-
-### 📈 Profundidade Técnica
-
-* **Full-Stack Development:** React, Next.js, Node.js, PostgreSQL, TypeScript.
-* **Prompt Engineering:** Automação e geração de código com IA generativa.
-* **Data Science:** Pandas, Plotly, Streamlit para análise corporativa.
-* **Arquitetura Escalável:** APIs RESTful, microsserviços e deploy em nuvem.
-
----
-
-## 🏢 Trajetória Profissional
-
-### **Positivo Tecnologia** | *Remoto*
-
-**📍 Analista de Suporte Pleno** | *Nov 2024 - Atual* | **Home Office**
-
-* Atuação em liderança técnica, elaboração de documentação, condução de treinamentos e suporte avançado aos times de N1, N2 e Field Service.
-* Implantação de novos projetos, soluções de automação e melhoria de processos, com foco em **Windows, PowerShell 7.X, Batch Script, Shell Script e VBS**.
-
-**📍 Analista de Automação de Processos PL** | *Jan 2024 - Nov 2024* | **Home Office**
-
-* Criação de automações para ambientes corporativos em **Windows**, utilizando **PowerShell 7, Batch Script e Shell Script**.
-* Desenvolvimento de documentação técnica e treinamentos voltados para N1, N2 e Field Service.
-
-### **Tecnocomp Tecnologia e Serviços**
-
-**📍 Analista de Suporte N2** | *Nov 2022 - Jan 2024* | **Híbrido**
-
-* Produção de documentação e treinamentos para equipes de N1 e Técnicos de Campo.
-* Apoio avançado em troubleshooting de **Windows** e início da aplicação de automações com **PowerShell e Batch Script**.
-
-**📍 Service Desk (Estágio)** | *Jul 2022 - Nov 2022* | **Presencial**
-
-* Primeiro contato com TI corporativa, com evolução rápida em suporte **Windows** e automação básica via **scripts**.
-
----
-
-## 🎓 Formação e Especializações
-
-**Bacharelado em Engenharia da Computação** | *2022 - 2027*
-FMU — Aplicando conceitos acadêmicos em projetos reais.
-
-**🤖 Especializações em IA**
-
-* ChatGPT & Prompt Engineering *(2022)*
-* Google Gemini API Integration *(2023)*
-* Claude AI Advanced Usage *(2025)*
-* Lovable Development Platform *(2025)*
-
-**📚 Certificações Recentes**
-
-* 📊 Imersão Dados com Python (Alura - Ago 2025)
-* ☕ Java: Criando sua primeira aplicação (Alura - Jun 2025)
-* 🖥️ Desenvolvimento de Software (Alura - Dez 2022)
-
----
-
-## 🏗️ Projetos em Destaque
-
-### 🤖 **IA e Automação Inteligente**
-
-* **[InstaBytes Platform](https://github.com/ESousa97/Instabytes-Front-End-Imersao-Alura-Google)** → Rede social com IA Google Gemini (React 19 + TypeScript + PWA).
-* **[README Generator AI](https://readme-generate.onrender.com)** → Automação inteligente de documentação (FastAPI + Python + Gemini AI).
-* **[Automação Windows Enterprise](https://github.com/ESousa97/instalacao-python-automation)** → Suite para padronização corporativa (Batch + PowerShell + Python).
-
-### 🏢 **Sistemas Corporativos**
-
-* **[ES Database System](https://e-sdatabase.vercel.app)** → Gestão de conhecimento técnico com 10k+ acessos mensais, autenticação 2FA e base documental modular.
-* **[ES Database V2](https://github.com/ESousa97/esdatabasev2)** → Evolução da plataforma com NextAuth.js e PostgreSQL.
-* **[API Backend](https://github.com/ESousa97/serverdatabase)** → API robusta em Node.js/PostgreSQL.
-
-### 📊 **Data Science & Analytics**
-
-* **[GitVision Pro](https://project-zero-seven.vercel.app)** → Analytics de GitHub com gamificação e KPIs em tempo real.
-* **[Dashboard Salarial](https://imersao-python-alura-agosto-2025-final-gumdpf57y4ajbfwfhmzhsx.streamlit.app)** → Pipeline de ciência de dados com 15+ visualizações Plotly.
-* **[Pipeline Python](https://github.com/ESousa97/imersao-python-alura-agosto-2025)** → EDA + dashboards globais interativos.
-
----
-
-## 🔧 Diferenciais
-
-### **💡 Abordagem T-Shaped**
-
-Integro visão **estratégica** de infraestrutura corporativa com profundidade em **desenvolvimento moderno**, conectando **usuários finais** a **soluções escaláveis**.
-
-### **🏗️ Capacidade End-to-End**
-
-* **Infraestrutura:** Windows corporativo e redes.
-* **Automação:** Scripts críticos em PowerShell e Python.
-* **Desenvolvimento:** Web apps escaláveis (React + Node.js).
-* **IA Integration:** Prompt Engineering e APIs multimodais.
-
-### **📚 Documentação Padronizada**
-
-Experiência corporativa com foco em **clareza e consistência**, garantindo fácil manutenção, auditoria e treinamento.
-
----
-
-## 📊 Resultados e Métricas
-
-* 🚀 **39+ projetos** desenvolvidos e documentados no GitHub.
-* ⚡ **40% de redução** no tempo operacional via automações.
-* 👥 **300+ unidades** atendidas em suporte.
-* 📚 **50+ procedimentos** documentados em bases de conhecimento.
-* 🔧 **15+ automações** em produção.
-* 🌐 **10k+ acessos/mês** no ES Database.
-
----
-
-## 📈 Estatísticas GitHub
+<br>
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ESousa97&show_icons=true&theme=github_dark"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=github_dark"
-    alt="Linguagens mais usadas por ESousa97"
-  />
-
-  <br /><br />
-
-  <!-- Streak Stats -->
-  <img
-    src="https://streak-stats.demolab.com/?user=ESousa97&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d7ff9&fire=2d7ff9&currStreakLabel=2d7ff9"
-    alt="GitHub Streak de ESousa97"
-  />
-
-  <br /><br />
-
-  <!-- Activity Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&theme=github-compact&hide_border=true&bg_color=0d1117&color=2d7ff9&line=2d7ff9&point=ffffff"
-    alt="Gráfico de atividades do GitHub de ESousa97"
-    width="100%"
-  />
+[![Portfolio](https://img.shields.io/badge/Portfolio-enoquesousa.vercel.app-ffffff?style=flat&logo=vercel&logoColor=black&labelColor=000000)](https://enoquesousa.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enoque--sousa-0A66C2?style=flat&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)](https://linkedin.com/in/enoque-sousa-bb89aa168)
+[![Email](https://img.shields.io/badge/Email-sousa3086%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=ffffff&labelColor=0078D4)](mailto:sousa3086@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ESousa97-181717?style=flat&logo=github&logoColor=ffffff&labelColor=181717)](https://github.com/ESousa97)
 
 </div>
 
----
+## Profile
 
-## 🤝 Conecte-se
+Experienced professional in high-criticality environments, responsible for operational leadership of N1/N2 and Field teams, ensuring efficiency, standardization, and quality support delivery.
+
+Focused on process optimization, strategic data-driven decision making, continuous improvement, and automation applied to corporate environments.
+
+Consolidated experience in infrastructure, automation, observability, technical standardization, and incident management (ITIL), supported by projects that increased productivity, reduced failures, and elevated operational maturity.
+
+<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-left { animation: slideLeft 3s ease-in-out infinite; } @keyframes slideLeft { 0% { x: 100%; } 50% { x: 0%; } 100% { x: 100%; } }</style></defs><rect class="slide-left" x="0" y="0" width="1000" height="4" fill="url(#grad1)"/><linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#2d7ff9;stop-opacity:1" /><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:1" /></linearGradient></svg>
+
+## Experience
+
+<details open>
+<summary><b>Positivo S+</b> · São Paulo · Remote</summary>
+<br/>
+
+**Support Lead Analyst** · Nov 2025 – Present
+
+- Operational management of N1, N2 and Field teams in 24x7 environment
+- Process standardization, documentation, workflows and performance indicators
+- Incident, change and problem governance (ITIL)
+- KPI optimization and data analysis for decision making
+- Operational automation with Python, PowerShell and Shell Script
+- Team training, monitoring and technical development
+- Strategic engagement with IMC and vendors for stability and high availability
+
+</details>
+
+<details>
+<summary><b>Positivo Tecnologia</b> · Curitiba · Remote</summary>
+<br/>
+
+**Support Analyst** · Nov 2024 – Oct 2025
+
+- Technical leadership, process documentation and training
+- Advanced support to N1, N2 and Field Service teams in corporate systems
+- New projects implementation, automation and process optimization
+
+**Process Automation Analyst** · Jan 2024 – Nov 2024
+
+- Creation of automations in Python, PowerShell and Shell Script for operational gains
+- Windows/Linux infrastructure standardization and technical documentation
+- Direct support to N1, N2 and Field Service teams
+
+</details>
+
+<details>
+<summary><b>Tecnocomp Tecnologia e Serviços</b> · São Paulo</summary>
+<br/>
+
+**Support Analyst N2** · Nov 2022 – Jan 2024 · Hybrid
+
+- Advanced Windows/Linux troubleshooting
+- Technical support to N1 and Field Service, training and process documentation
+- Task automation for support optimization
+
+**Service Desk (Internship)** · Jul 2022 – Nov 2022 · On-site
+
+- N1 support and remote assistance for corporate workstations
+- Environment standardization and equipment initial setup
+
+</details>
+
+<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-right { animation: slideRight 3s ease-in-out infinite; } @keyframes slideRight { 0% { x: -100%; } 50% { x: 0%; } 100% { x: -100%; } }</style></defs><rect class="slide-right" x="0" y="0" width="1000" height="4" fill="url(#grad2)"/><linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#8b949e;stop-opacity:1" /><stop offset="100%" style="stop-color:#30363d;stop-opacity:1" /></linearGradient></svg>
+
+## Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Automation & Scripting**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+
+**Systems & Infrastructure**
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Integrations**
+
+![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-left { animation: slideLeft 3s ease-in-out infinite; } @keyframes slideLeft { 0% { x: 100%; } 50% { x: 0%; } 100% { x: 100%; } }</style></defs><rect class="slide-left" x="0" y="0" width="1000" height="4" fill="url(#grad3)"/><linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#2d7ff9;stop-opacity:1" /><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:1" /></linearGradient></svg>
+
+## Projects
+
+| Project | Description | Impact |
+|:--------|:----------|:-------:|
+| **ES Database** | Corporate knowledge management platform with Next.js, Node.js and PostgreSQL | `10k+ monthly access` |
+| **Automation GUI** | Modular Windows app (Python + PowerShell) for terminal standardization | `40% time reduction` |
+| **ExNeural** | Indicator classification tool with generative AI and real-time dashboards | `Strategic decisions` |
+| **Windows 10 Image** | Corporate ISO with automated post-installation | `300+ units` |
+| **GitVision Pro** | GitHub analytics dashboard with KPIs and real-time gamification | `Productivity` |
+
+<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-right { animation: slideRight 3s ease-in-out infinite; } @keyframes slideRight { 0% { x: -100%; } 50% { x: 0%; } 100% { x: -100%; } }</style></defs><rect class="slide-right" x="0" y="0" width="1000" height="4" fill="url(#grad4)"/><linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#8b949e;stop-opacity:1" /><stop offset="100%" style="stop-color:#30363d;stop-opacity:1" /></linearGradient></svg>
+
+## GitHub Analytics
 
 <div align="center">
-  <strong>Especializado em:</strong><br>
-  Automação Corporativa • Desenvolvimento Full-Stack • Integração com IA • Infraestrutura Windows
-  <br><br>
-  <p align="center">
-    <a href="https://enoquesousa.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfólio"/>
-    </a>
-    <a href="https://github.com/ESousa97" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/enoque-sousa-bb89aa168" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:sousa3086@outlook.com">
-      <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0d1117" alt="Outlook"/>
-    </a>
-  </p>
+
+<img src="https://streak-stats.demolab.com/?user=ESousa97&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d7ff9&fire=2d7ff9&currStreakLabel=2d7ff9&sideLabels=8b949e" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&hide_border=true&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e" width="100%"/>
 
 </div>
 
----
+<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-left { animation: slideLeft 3s ease-in-out infinite; } @keyframes slideLeft { 0% { x: 100%; } 50% { x: 0%; } 100% { x: 100%; } }</style></defs><rect class="slide-left" x="0" y="0" width="1000" height="4" fill="url(#grad5)"/><linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#2d7ff9;stop-opacity:1" /><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:1" /></linearGradient></svg>
+
+## Education & Languages
+
+<table>
+<tr>
+<td width="50%">
+
+**Academic Education**
+
+🎓 Computer Engineering · Bachelor · In progress
+
+</td>
+<td width="50%">
+
+**Languages**
+
+🇺🇸 English: Technical reading and basic conversation  
+🇪🇸 Spanish: Basic reading
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2d7ff9&height=100&section=footer" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ESousa97&style=for-the-badge&color=2d7ff9&labelColor=1a365d" alt="Visualizações do Perfil"/>
-</div>
+**São Paulo, Brazil** · Available for opportunities
 
-<div align="center">
-  <sub>💙 Profissional em T: Do Service Desk ao Full Stack | 🔄 Atualizado: Agosto 2025</sub>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ESousa97&color=2d7ff9&style=flat-square&label=Views)
+
 </div>
