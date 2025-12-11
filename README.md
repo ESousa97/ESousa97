@@ -21,7 +21,7 @@ Focused on process optimization, strategic data-driven decision making, continuo
 
 Consolidated experience in infrastructure, automation, observability, technical standardization, and incident management (ITIL), supported by projects that increased productivity, reduced failures, and elevated operational maturity.
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-left { animation: slideLeft 3s ease-in-out infinite; } @keyframes slideLeft { 0% { x: 100%; } 50% { x: 0%; } 100% { x: 100%; } }</style></defs><rect class="slide-left" x="0" y="0" width="1000" height="4" fill="url(#grad1)"/><linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#2d7ff9;stop-opacity:1" /><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:1" /></linearGradient></svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Experience
 
@@ -76,7 +76,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 </details>
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-right { animation: slideRight 3s ease-in-out infinite; } @keyframes slideRight { 0% { x: -100%; } 50% { x: 0%; } 100% { x: -100%; } }</style></defs><rect class="slide-right" x="0" y="0" width="1000" height="4" fill="url(#grad2)"/><linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#8b949e;stop-opacity:1" /><stop offset="100%" style="stop-color:#30363d;stop-opacity:1" /></linearGradient></svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Skills
 
@@ -118,7 +118,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 </tr>
 </table>
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-left { animation: slideLeft 3s ease-in-out infinite; } @keyframes slideLeft { 0% { x: 100%; } 50% { x: 0%; } 100% { x: 100%; } }</style></defs><rect class="slide-left" x="0" y="0" width="1000" height="4" fill="url(#grad3)"/><linearGradient id="grad3" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#2d7ff9;stop-opacity:1" /><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:1" /></linearGradient></svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Projects
 
@@ -130,7 +130,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 | **Windows 10 Image** | Corporate ISO with automated post-installation | `300+ units` |
 | **GitVision Pro** | GitHub analytics dashboard with KPIs and real-time gamification | `Productivity` |
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-right { animation: slideRight 3s ease-in-out infinite; } @keyframes slideRight { 0% { x: -100%; } 50% { x: 0%; } 100% { x: -100%; } }</style></defs><rect class="slide-right" x="0" y="0" width="1000" height="4" fill="url(#grad4)"/><linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#8b949e;stop-opacity:1" /><stop offset="100%" style="stop-color:#30363d;stop-opacity:1" /></linearGradient></svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## GitHub Analytics
 
@@ -144,7 +144,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 </div>
 
-<svg width="100%" height="4" viewBox="0 0 1000 4" xmlns="http://www.w3.org/2000/svg"><defs><style>.slide-left { animation: slideLeft 3s ease-in-out infinite; } @keyframes slideLeft { 0% { x: 100%; } 50% { x: 0%; } 100% { x: 100%; } }</style></defs><rect class="slide-left" x="0" y="0" width="1000" height="4" fill="url(#grad5)"/><linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" style="stop-color:#2d7ff9;stop-opacity:1" /><stop offset="100%" style="stop-color:#58a6ff;stop-opacity:1" /></linearGradient></svg>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Education & Languages
 
@@ -172,7 +172,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <div align="center">
 
-**São Paulo, Brazil** · Available for opportunities
+**São Paulo, Brazil** · (11) 95805-7967 · Available for opportunities
 
 <br/>
 
