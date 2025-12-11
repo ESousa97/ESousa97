@@ -150,25 +150,35 @@ Experiência corporativa com foco em **clareza e consistência**, garantindo fá
 
 <div align="center">
 
-  <!-- Trophy (substitui ícones quebrados) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ESousa97&theme=darkhub&no-frame=true&no-bg=true&column=4" width="100%" />
-
-  <br/><br/>
-
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2d7ff9&icon_color=2d7ff9&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2d7ff9&icon_color=2d7ff9&text_color=ffffff&include_all_commits=true&count_private=true"
+    alt="GitHub Stats do ESousa97"
+  />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2d7ff9&text_color=ffffff"/>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2d7ff9&text_color=ffffff"
+    alt="Linguagens mais usadas por ESousa97"
+  />
 
-  <br/><br/>
+  <br /><br />
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=ESousa97&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d7ff9&fire=2d7ff9&currStreakLabel=2d7ff9"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=ESousa97&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d7ff9&fire=2d7ff9&currStreakLabel=2d7ff9"
+    alt="GitHub Streak de ESousa97"
+  />
 
-  <br/><br/>
+  <br /><br />
 
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&theme=github-compact&hide_border=true&bg_color=0d1117&color=2d7ff9&line=2d7ff9&point=ffffff" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&theme=github-compact&hide_border=true&bg_color=0d1117&color=2d7ff9&line=2d7ff9&point=ffffff"
+    alt="Gráfico de atividades do GitHub de ESousa97"
+    width="100%"
+  />
 
 </div>
 
