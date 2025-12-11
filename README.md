@@ -172,7 +172,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <div align="center">
 
-**São Paulo, Brazil** · (11) 95805-7967 · Available for opportunities
+**São Paulo, Brazil** · Available for opportunities
 
 <br/>
 
