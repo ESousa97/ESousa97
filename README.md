@@ -153,13 +153,12 @@ Experiência corporativa com foco em **clareza e consistência**, garantindo fá
   <!-- GitHub Stats -->
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2d7ff9&icon_color=2d7ff9&text_color=ffffff&include_all_commits=true&count_private=true"
-    alt="GitHub Stats do ESousa97"
+    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=ESousa97&show_icons=true&theme=github_dark"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2d7ff9&text_color=ffffff"
+    src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=ESousa97&layout=compact&theme=github_dark"
     alt="Linguagens mais usadas por ESousa97"
   />
 
