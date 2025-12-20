@@ -136,7 +136,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ESousa97&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d7ff9&fire=2d7ff9&currStreakLabel=2d7ff9&sideLabels=8b949e" height="160"/>
+<img src="https://streak-stats.salesp07.workers.dev/?user=ESousa97&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d7ff9&fire=2d7ff9&currStreakLabel=2d7ff9&sideLabels=8b949e&cache_seconds=86400" height="160"/>
 
 <br/>
 
