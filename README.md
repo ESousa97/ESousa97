@@ -136,11 +136,11 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ESousa97&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2d7ff9&fire=2d7ff9&currStreakLabel=2d7ff9&sideLabels=8b949e&cache_seconds=86400" height="160"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&hide_border=true&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e" width="100%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&hide_border=true&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e" width="100%"/>
+<img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobra comendo commits"/>
 
 </div>
 
