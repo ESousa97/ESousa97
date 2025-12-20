@@ -24,8 +24,8 @@ jobs:
         with:
           github_user_name: ESousa97
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-tech.svg?palette=github-dark&color_snake=#4de2ff&color_dots=#0d1117,#0f1f35,#0a6edc,#1aa9ff,#6ef5ff
+            dist/github-contribution-grid-snake-tech-light.svg?palette=github-light&color_snake=#0066ff&color_dots=#ffffff,#e7f0ff,#8dc7ff,#4ba3ff,#1d6fff
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

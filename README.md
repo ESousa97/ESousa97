@@ -140,7 +140,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobra comendo commits"/>
+<img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg" width="100%" alt="Cobra futurista comendo commits"/>
 
 </div>
 
