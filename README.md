@@ -136,39 +136,27 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&hide_border=true&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&hide_border=true&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e" width="100%" alt="GitHub activity graph" />
 
-<br/>
+</div> <br/> <div align="center">
 
-<img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg" width="100%" alt="Cobra futurista comendo commits"/>
+<img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg" width="100%" alt="Contribution activity animation" />
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Engineering Overview
 
-<div align="center">
+<div align="center"> <table> <tr> <td align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d7ff9&icon_color=2d7ff9&text_color=c9d1d9&count_private=true"
-  height="170"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d7ff9&icon_color=2d7ff9&text_color=c9d1d9&count_private=true" height="480" alt="GitHub stats" />
 
-<!-- Most Used Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d7ff9&text_color=c9d1d9&langs_count=8"
-  height="170"
-/>
+</td> <td align="center">
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d7ff9&text_color=c9d1d9&langs_count=8" height="180" alt="Most used languages" />
 
-<div align="center">
+</td> </tr> </table> </div> <br/> <div align="center">
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com?user=ESousa97&theme=github-dark-blue&hide_border=true"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ESousa97&theme=github-dark-blue&hide_border=true" width="90%" alt="GitHub contribution streak" />
 
 </div>
 
