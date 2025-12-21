@@ -146,6 +146,33 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## Engineering Overview
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d7ff9&icon_color=2d7ff9&text_color=c9d1d9&count_private=true"
+  height="170"
+/>
+
+<!-- Most Used Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d7ff9&text_color=c9d1d9&langs_count=8"
+  height="170"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=ESousa97&theme=github-dark-blue&hide_border=true"
+/>
+
+</div>
+
+
 ## Education & Languages
 
 <table>
