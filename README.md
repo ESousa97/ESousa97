@@ -156,8 +156,6 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 </td> </tr> </table> </div> <br/> <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ESousa97&theme=github-dark-blue&hide_border=true" width="90%" alt="GitHub contribution streak" />
-
 </div>
 
 
