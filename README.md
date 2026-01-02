@@ -149,7 +149,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center">
 
 <img
   src="https://engineering-overview.onrender.com/api/languages?username=ESousa97&theme=dark&layout=compact"
@@ -157,7 +157,10 @@ Consolidated experience in infrastructure, automation, observability, technical 
 />
 
 </td>
-<td width="45%" align="center">
+</tr>
+
+<tr>
+<td align="center">
 
 <img
   src="https://engineering-overview.onrender.com/api/quality?username=ESousa97&theme=dark"
