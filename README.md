@@ -84,92 +84,49 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Engineering Overview
-
+📊 Engineering Overview
 <div align="center">
 
-![Engineering Overview](https://engineering-overview.onrender.com/api/overview?username=ESousa97&theme=dark)
+<img
+  src="https://engineering-overview.onrender.com/api/overview?username=ESousa97&theme=dark"
+  width="100%"
+/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🛠️ Skills & Technologies
-
+🛠️ Skills & Technologies
 <div align="center">
 
-![Skills](https://engineering-overview.onrender.com/api/skills?username=ESousa97&theme=dark)
+<img
+  src="https://engineering-overview.onrender.com/api/skills?username=ESousa97&theme=dark"
+  width="100%"
+/>
+
+<br/><br/>
+
+<!-- AI Badges -->
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
 
 </div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Automation & Scripting**
-
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
-
-**Systems & Infrastructure**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-**Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI & Integrations**
-
-![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💻 Languages & Quality
 
 <div align="center">
-<table>
-<tr>
-<td align="center">
 
 <img
   src="https://engineering-overview.onrender.com/api/languages?username=ESousa97&theme=dark&layout=compact"
   width="100%"
 />
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
 <img
   src="https://engineering-overview.onrender.com/api/quality?username=ESousa97&theme=dark"
   width="100%"
 />
 
-</td>
-</tr>
-</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
