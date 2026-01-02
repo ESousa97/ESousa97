@@ -1,19 +1,25 @@
+<div align="center">
+
 # José Enoque Costa de Sousa
 
 **Support Lead Analyst** · Automation · Infrastructure · Observability
 
 <br>
 
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-enoquesousa.vercel.app-ffffff?style=flat&logo=vercel&logoColor=black&labelColor=000000)](https://enoquesousa.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-enoque--sousa-0A66C2?style=flat&logo=linkedin&logoColor=ffffff&labelColor=0A66C2)](https://linkedin.com/in/enoque-sousa-bb89aa168)
 [![Email](https://img.shields.io/badge/Email-sousa3086%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=ffffff&labelColor=0078D4)](mailto:sousa3086@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ESousa97-181717?style=flat&logo=github&logoColor=ffffff&labelColor=181717)](https://github.com/ESousa97)
 
+<br>
+
+![Badge](https://engineering-overview.onrender.com/api/badges?username=ESousa97&type=engineering-score&theme=dark)
+
 </div>
 
-## Profile
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 👤 Profile
 
 Experienced professional in high-criticality environments, responsible for operational leadership of N1/N2 and Field teams, ensuring efficiency, standardization, and quality support delivery.
 
@@ -23,7 +29,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Experience
+## 💼 Experience
 
 <details open>
 <summary><b>Positivo S+</b> · São Paulo · Remote</summary>
@@ -78,7 +84,25 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Skills
+## 📊 Engineering Overview
+
+<div align="center">
+
+![Engineering Overview](https://engineering-overview.onrender.com/api/overview?username=ESousa97&theme=dark)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+![Skills](https://engineering-overview.onrender.com/api/skills?username=ESousa97&theme=dark)
+
+</div>
+
+<br>
 
 <table>
 <tr>
@@ -120,7 +144,34 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Projects
+## 💻 Languages & Quality
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://engineering-overview.onrender.com/api/languages?username=ESousa97&theme=dark&layout=compact"
+  width="100%"
+/>
+
+</td>
+<td width="45%" align="center">
+
+<img
+  src="https://engineering-overview.onrender.com/api/quality?username=ESousa97&theme=dark"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Projects
 
 | Project | Description | Impact |
 |:--------|:----------|:-------:|
@@ -132,34 +183,21 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&hide_border=true&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e" width="100%" alt="GitHub activity graph" />
 
-</div> <br/> <div align="center">
+<br/>
 
 <img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg" width="100%" alt="Contribution activity animation" />
 
 </div>
 
-## Engineering Overview
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center"> <table> <tr> <td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ESousa97&show_icons=true&hide_border=true&bg_color=0d1117&title_color=2d7ff9&icon_color=2d7ff9&text_color=c9d1d9&count_private=true" height="480" alt="GitHub stats" />
-
-</td> <td align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESousa97&layout=compact&hide_border=true&bg_color=0d1117&title_color=2d7ff9&text_color=c9d1d9&langs_count=8" height="180" alt="Most used languages" />
-
-</td> </tr> </table> </div> <br/> <div align="center">
-
-</div>
-
-
-## Education & Languages
+## 🎓 Education & Languages
 
 <table>
 <tr>
