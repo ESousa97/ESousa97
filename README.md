@@ -120,7 +120,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 />
 
 <img
-  src="https://esousadev97.online/api/quality?username=ESousa97&theme=dark"
+  src="https://esousadev97.online/api/quality?username=ESousa97&theme=dark&layout=compact"
   width="100%"
 />
 
