@@ -10,7 +10,7 @@
 
 <br>
 
-![Badge](https://engineering-overview.onrender.com/api/badges?username=ESousa97&type=engineering-score&theme=dark)
+![Badge](https://esousadev97.online/api/badges?username=ESousa97&type=engineering-score&theme=dark)
 
 </div>
 
@@ -85,7 +85,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 <div align="center">
 
 <img
-  src="https://engineering-overview.onrender.com/api/overview?username=ESousa97&theme=dark"
+  src="https://esousadev97.online/api/overview?username=ESousa97&theme=dark"
   width="100%"
 />
 
@@ -95,7 +95,7 @@ Consolidated experience in infrastructure, automation, observability, technical 
 <div align="center">
 
 <img
-  src="https://engineering-overview.onrender.com/api/skills?username=ESousa97&theme=dark"
+  src="https://esousadev97.online/api/skills?username=ESousa97&theme=dark"
   width="100%"
 />
 
@@ -115,12 +115,12 @@ Consolidated experience in infrastructure, automation, observability, technical 
 <div align="center">
 
 <img
-  src="https://engineering-overview.onrender.com/api/languages?username=ESousa97&theme=dark&layout=compact"
+  src="https://esousadev97.online/languages?username=ESousa97&theme=dark&layout=compact"
   width="100%"
 />
 
 <img
-  src="https://engineering-overview.onrender.com/api/quality?username=ESousa97&theme=dark"
+  src="https://esousadev97.online/api/quality?username=ESousa97&theme=dark"
   width="100%"
 />
 
