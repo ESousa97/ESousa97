@@ -1,5 +1,4 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:4a0e4e,60:7b2d8e,100:bd93f9&height=280&section=header&text=ESousa97&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20Support%20Lead%20Analyst%20|%20Automation%20|%20Infrastructure%20|%20Observability%20&descAlignY=55&descSize=20&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:4a0e4e,60:7b2d8e,100:bd93f9&height=280&section=header&text=ESousa97&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20Support%20Lead%20Analyst%20|%20Automation%20|%20Infrastructure%20|%20Software%20Engineering%20&descAlignY=55&descSize=20&descAlign=50"/>
 
 <div align="center">
 
@@ -10,23 +9,24 @@
 
 <br>
 
-![Badge](https://esousadev97.online/api/badges?username=ESousa97&type=engineering-score&theme=dark)
+<img src="https://esousadev97.online/api/badges?username=ESousa97&type=engineering-score&theme=dark" alt="Engineering Score" />
+<img src="https://esousadev97.online/api/badges?username=ESousa97&type=clean-code&theme=dark" alt="Clean Code" />
+<img src="https://esousadev97.online/api/badges?username=ESousa97&type=commits&theme=dark" alt="Commits" />
+<img src="https://esousadev97.online/api/badges?username=ESousa97&type=streak&theme=dark" alt="Streak" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👤 Profile
+## Profile
 
-Experienced professional in high-criticality environments, responsible for operational leadership of N1/N2 and Field teams, ensuring efficiency, standardization, and quality support delivery.
+Experienced professional in high-criticality 24x7 environments, responsible for the operational leadership of Support and Field teams. [cite_start]I have a proven track record of maintaining SLAs above 98% and managing backlogs for hundreds of corporate units.
 
-Focused on process optimization, strategic data-driven decision making, continuous improvement, and automation applied to corporate environments.
-
-Consolidated experience in infrastructure, automation, observability, technical standardization, and incident management (ITIL), supported by projects that increased productivity, reduced failures, and elevated operational maturity.
+My expertise bridges IT infrastructure and software engineering. [cite_start]I specialize in process optimization and building robust automations using Python, PowerShell, and Shell Script, which have historically reduced service times by up to 72%. I am driven by continuous improvement, data-driven decision making, and elevating operational maturity in complex corporate ecosystems.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experience
+## Experience
 
 <details open>
 <summary><b>Positivo S+</b> · São Paulo · Remote</summary>
@@ -34,13 +34,11 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 **Support Lead Analyst** · Nov 2025 – Present
 
-- Operational management of N1, N2 and Field teams in 24x7 environment
-- Process standardization, documentation, workflows and performance indicators
-- Incident, change and problem governance (ITIL)
-- KPI optimization and data analysis for decision making
-- Operational automation with Python, PowerShell and Shell Script
-- Team training, monitoring and technical development
-- Strategic engagement with IMC and vendors for stability and high availability
+- Operational management of N1, N2 and Field teams in a 24x7 environment.
+- Process standardization, documentation, workflows, and performance indicators.
+- Incident, change, and problem governance based on ITIL methodologies.
+- KPI optimization and data analysis for strategic decision-making.
+- Operational automation to increase team efficiency and productivity.
 
 </details>
 
@@ -50,97 +48,85 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 **Support Analyst** · Nov 2024 – Oct 2025
 
-- Technical leadership, process documentation and training
-- Advanced support to N1, N2 and Field Service teams in corporate systems
-- New projects implementation, automation and process optimization
+- Technical leadership, process documentation, and training for N1/N2/Field teams.
+- Advanced support for corporate systems and hardware infrastructure.
+- Deployment of structural automations, significantly improving team efficiency and reducing server initialization incidents.
 
 **Process Automation Analyst** · Jan 2024 – Nov 2024
 
-- Creation of automations in Python, PowerShell and Shell Script for operational gains
-- Windows/Linux infrastructure standardization and technical documentation
-- Direct support to N1, N2 and Field Service teams
+- Creation of high-impact automations in Python, PowerShell, and Shell Script.
+- Windows/Linux infrastructure standardization and technical documentation development.
 
 </details>
 
 <details>
-<summary><b>Tecnocomp Tecnologia e Serviços</b> · São Paulo</summary>
+<summary><b>Tecnocomp Tecnologia e Serviços</b> · São Bernardo do Campo</summary>
 <br/>
 
 **Support Analyst N2** · Nov 2022 – Jan 2024 · Hybrid
 
-- Advanced Windows/Linux troubleshooting
-- Technical support to N1 and Field Service, training and process documentation
-- Task automation for support optimization
+- Advanced Windows/Linux troubleshooting and root cause analysis.
+- Task automation and knowledge base creation for support optimization.
 
 **Service Desk (Internship)** · Jul 2022 – Nov 2022 · On-site
 
-- N1 support and remote assistance for corporate workstations
-- Environment standardization and equipment initial setup
+- N1 support, triaging, and resolution of low-complexity processes.
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-📊 Engineering Overview
+## Engineering Overview
+
 <div align="center">
 
-<img
-  src="https://esousadev97.online/api/overview?username=ESousa97&theme=dark"
-  width="100%"
-/>
+<img src="https://esousadev97.online/api/overview?username=ESousa97&theme=dark&layout=full&width=820" width="100%" alt="Engineering Overview" />
 
 </div>
 
-🛠️ Skills & Technologies
+## Skills & Technologies
+
 <div align="center">
 
-<img
-  src="https://esousadev97.online/api/skills?username=ESousa97&theme=dark"
-  width="100%"
-/>
+<img src="https://esousadev97.online/api/skills?username=ESousa97&theme=dark" width="100%" alt="Skills" />
 
 <br/><br/>
 
-<!-- AI Badges -->
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💻 Languages & Quality
+## Languages & Code Quality
 
 <div align="center">
 
-<img
-  src="https://esousadev97.online/api/languages?username=ESousa97&theme=dark&layout=compact"
-  width="100%"
-/>
+<img src="https://esousadev97.online/api/languages?username=ESousa97&theme=dark" width="100%" alt="Top Languages" />
 
-<img
-  src="https://esousadev97.online/api/quality?username=ESousa97&theme=dark&layout=compact"
-  width="100%"
-/>
+<br/>
+
+<img src="https://esousadev97.online/api/quality?username=ESousa97&theme=dark" width="100%" alt="Code Quality" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Impact |
 |:--------|:----------|:-------:|
-| **ES Database** | Corporate knowledge management platform with Next.js, Node.js and PostgreSQL | `10k+ monthly access` |
-| **Automation GUI** | Modular Windows app (Python + PowerShell) for terminal standardization | `40% time reduction` |
-| **ExNeural** | Indicator classification tool with generative AI and real-time dashboards | `Strategic decisions` |
-| **Windows 10 Image** | Corporate ISO with automated post-installation | `300+ units` |
-| **GitVision Pro** | GitHub analytics dashboard with KPIs and real-time gamification | `Productivity` |
+| **ES Database** | Corporate knowledge management platform with Next.js, Node.js and PostgreSQL. | `10k+ monthly access` |
+| **Automation GUI** | Modular Windows app (Python + PowerShell) for terminal standardization. | `40% time reduction` |
+| **ExNeural** | Indicator classification tool with generative AI and real-time dashboards. | `Strategic decisions` |
+| **Windows 10 Image** | Corporate ISO with automated post-installation. | `300+ units` |
+| **GitVision Pro** | GitHub analytics dashboard with KPIs and real-time gamification. | `Productivity` |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -154,27 +140,14 @@ Consolidated experience in infrastructure, automation, observability, technical 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎓 Education & Languages
+## Education
 
-<table>
-<tr>
-<td width="50%">
-
-**Academic Education**
-
-🎓 Computer Engineering · Bachelor · In progress
-
-</td>
-<td width="50%">
+**Academic Background**
+- Computer Engineering · Bachelor · In progress
 
 **Languages**
-
-🇺🇸 English: Technical reading and basic conversation  
-🇪🇸 Spanish: Basic reading
-
-</td>
-</tr>
-</table>
+- English: Technical reading and basic conversation
+- Spanish: Basic reading
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
