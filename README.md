@@ -76,37 +76,15 @@ My expertise bridges IT infrastructure and software engineering. [cite_start]I s
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Engineering Overview
+## Technologies
 
-<div align="center">
-
-<img src="https://esousadev97.online/api/overview?username=ESousa97&theme=dark&layout=full&width=820" width="100%" alt="Engineering Overview" />
-
-</div>
-
-## Skills & Technologies
-
-<div align="center">
-
-<img src="https://esousadev97.online/api/skills?username=ESousa97&theme=dark" width="100%" alt="Skills" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## Languages & Code Quality
-
-<div align="center">
-
-<img src="https://esousadev97.online/api/languages?username=ESousa97&theme=dark" width="100%" alt="Top Languages" />
-
-<br/>
 
 <img src="https://esousadev97.online/api/quality?username=ESousa97&theme=dark" width="100%" alt="Code Quality" />
 
