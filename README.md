@@ -10,9 +10,9 @@
 <br>
 
 <div align="center">
-  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/devops?username=ESousa97&theme=dark" alt="DevOps Metrics" />
-  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/activity?username=ESousa97&theme=dark" alt="Recent Activity" />
-  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/streak?username=ESousa97&theme=dark" alt="GitHub Streak" />
+  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/devops?username=ESousa97&theme=dark" width="100%" alt="DevOps Metrics" />
+  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/activity?username=ESousa97&theme=dark" width="100%" alt="Recent Activity" />
+  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/streak?username=ESousa97&theme=dark" width="100%" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
