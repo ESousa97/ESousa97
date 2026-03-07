@@ -122,7 +122,8 @@ My journey in technology started at age 10, fueling a lifelong passion that driv
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  **São Paulo, Brazil** · Available for opportunities
+  <strong>São Paulo, Brazil</strong> · Available for opportunities
+  <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=ESousa97&color=2d7ff9&style=flat-square&label=Views" alt="Profile Views" />
 </div>
