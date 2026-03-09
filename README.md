@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/devops?username=ESousa97&theme=dark" width="100%" alt="DevOps Metrics" />
-  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/activity?username=ESousa97&theme=dark" width="100%" alt="Recent Activity" />
+  <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/activity" width="100%" alt="Recent Activity" />
   <img src="https://t40w8k0gw4s00o0kgooc8okw.187.77.226.95.sslip.io/api/streak?username=ESousa97&theme=dark" width="100%" alt="GitHub Streak" />
 </div>
 
