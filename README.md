@@ -90,13 +90,12 @@ My journey in technology started at age 10, fueling a lifelong passion that driv
 
 ## Projects
 
-| Project | Description | Impact |
-|:--------|:----------|:-------:|
-| **ES Database** | Corporate knowledge management platform with Next.js, Node.js and PostgreSQL. | `10k+ monthly access` |
-| **Automation GUI** | Modular Windows app (Python + PowerShell) for terminal standardization. | `40% time reduction` |
-| **ExNeural** | Indicator classification tool with generative AI and real-time dashboards. | `Strategic decisions` |
-| **Windows 10 Image** | Corporate ISO with automated post-installation. | `300+ units` |
-| **GitVision Pro** | GitHub analytics dashboard with KPIs and real-time gamification. | `Productivity` |
+### Project Highlight: HubFollow
+Intelligent platform for managing and analyzing reciprocity on GitHub. **HubFollow** allows you to identify users you follow who don't follow you back, and vice versa, facilitating the curation of your professional network.
+
+Developed to validate the demand for networking management tools, the project offers an intuitive interface for analyzing profile metrics in real time.
+
+**Project Link:** [HubFollow Live](http://tw004g0oo4soo0c4s4g800oc.187.77.226.95.sslip.io)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
