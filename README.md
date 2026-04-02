@@ -75,15 +75,12 @@ Lead Support Analyst managing N1/N2 operations for 280 units in high-criticality
   <img src="https://img.shields.io/badge/ChatGPT_Pro-412991?style=flat&logo=openai&logoColor=white" alt="ChatGPT Pro" />
   <img src="https://img.shields.io/badge/GPT_CLI-412991?style=flat&logo=openai&logoColor=white" alt="GPT CLI" />
   <img src="https://img.shields.io/badge/GPT_Codex-412991?style=flat&logo=openai&logoColor=white" alt="GPT Codex" />
-  <br>
   <img src="https://img.shields.io/badge/Claude_Code_CLI-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Code CLI" />
   <img src="https://img.shields.io/badge/Claude_Desktop-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Desktop" />
   <img src="https://img.shields.io/badge/Claude_AI_(Pro)-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude AI Pro" />
-  <br>
   <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
   <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini Pro" />
   <img src="https://img.shields.io/badge/Jules_CLI-4285F4?style=flat&logo=google&logoColor=white" alt="Jules CLI" />
-  <br>
   <img src="https://img.shields.io/badge/Antigravity-1A1A2E?style=flat" alt="Antigravity" />
 </div>
 
