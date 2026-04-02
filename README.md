@@ -1,128 +1,133 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:4a0e4e,60:7b2d8e,100:bd93f9&height=280&section=header&text=ESousa97&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20Support%20Lead%20Analyst%20|%20Automation%20|%20Infrastructure%20|%20Software%20Engineering%20&descAlignY=55&descSize=20&descAlign=50"/>
-
 <div align="center">
-  <a href="https://enoquesousa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-enoquesousa.vercel.app-ffffff?style=flat&logo=vercel&logoColor=black&labelColor=000000" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/LinkedIn-enoque--sousa-0A66C2?style=flat&logo=linkedin&logoColor=ffffff&labelColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/Email-sousa3086%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=ffffff&labelColor=0078D4" alt="Email"/></a>
-  <a href="https://github.com/ESousa97"><img src="https://img.shields.io/badge/GitHub-ESousa97-181717?style=flat&logo=github&logoColor=ffffff&labelColor=181717" alt="GitHub"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:4a0e4e,60:7b2d8e,100:bd93f9&height=280&section=header&text=ESousa97&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Engineering%20|%20DevOps%20|%20AI%20&%20Data%20&descAlignY=55&descSize=20&descAlign=50"/>
+
+  <h1>Enoque Sousa (ESousa97)</h1>
+  <b>Lead Support Analyst | Transitioning to Software Engineering & DevOps</b>
+  <br>
+  São Paulo, Brazil
+  <br><br>
+
+  <a href="https://enoquesousa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-enoquesousa.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/LinkedIn-Enoque_Sousa-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/Email-sousa3086%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/ESousa97"><img src="https://img.shields.io/badge/GitHub-ESousa97-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br>
 
-<div align="center">
-  <img src="http://asw80s4kckwgc4w84s080k8s.187.77.226.95.sslip.io/api/devops" width="100%" alt="DevOps Metrics" />
-  <img src="http://asw80s4kckwgc4w84s080k8s.187.77.226.95.sslip.io/api/activity" width="100%" alt="Recent Activity" />
-  <img src="http://asw80s4kckwgc4w84s080k8s.187.77.226.95.sslip.io/api/streak" width="100%" alt="GitHub Streak" />
-</div>
+## About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+Lead Support Analyst managing N1/N2 operations for 280 units in high-criticality 24x7 environments, maintaining a consistent SLA above 98%. Expert in bridging IT infrastructure with software engineering, I develop high-performance automations and data-driven architectures. My focus lies in systems optimization, having reduced operational service times by up to 72% through custom engineering solutions. Currently specializing in AI integration, native desktop development (C++/Qt), and backend scalability.
 
-## Profile
+<br>
 
-Experienced professional in high-criticality 24x7 environments, responsible for the operational leadership of Support and Field teams. I have a proven track record of maintaining SLAs above 98% and managing backlogs for hundreds of corporate units. 
-
-My journey in technology started at age 10, fueling a lifelong passion that drives my current academic pursuit in Computer Engineering. My expertise bridges IT infrastructure and software engineering. I specialize in process optimization and building robust automations using Python, PowerShell, and Shell Script, which have historically reduced service times by up to 72%. I am driven by continuous improvement, data-driven decision making, and elevating operational maturity in complex corporate ecosystems.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Experience
-
-<details open>
-<summary><b>Positivo S+</b> · São Paulo · Remote</summary>
-<br/>
-
-**Support Lead Analyst** · Nov 2025 – Present
-- Operational management of N1, N2 and Field teams in a 24x7 environment.
-- Process standardization, documentation, workflows, and performance indicators.
-- Incident, change, and problem governance based on ITIL methodologies.
-- KPI optimization and data analysis for strategic decision-making.
-- Operational automation to increase team efficiency and productivity.
-</details>
-
-<details>
-<summary><b>Positivo Tecnologia</b> · Curitiba · Remote</summary>
-<br/>
-
-**Support Analyst** · Nov 2024 – Oct 2025
-- Technical leadership, process documentation, and training for N1/N2/Field teams.
-- Advanced support for corporate systems and hardware infrastructure.
-- Deployment of structural automations, significantly improving team efficiency and reducing server initialization incidents.
-
-**Process Automation Analyst** · Jan 2024 – Nov 2024
-- Creation of high-impact automations in Python, PowerShell, and Shell Script.
-- Windows/Linux infrastructure standardization and technical documentation development.
-</details>
-
-<details>
-<summary><b>Tecnocomp Tecnologia e Serviços</b> · São Bernardo do Campo</summary>
-<br/>
-
-**Support Analyst N2** · Nov 2022 – Jan 2024 · Hybrid
-- Advanced Windows/Linux troubleshooting and root cause analysis.
-- Task automation and knowledge base creation for support optimization.
-
-**Service Desk (Internship)** · Jul 2022 – Nov 2022 · On-site
-- N1 support, triaging, and resolution of low-complexity processes.
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Technologies
+## Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" /> 
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> 
-  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <b>Languages</b>
+  <br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <br><br>
+
+  <b>AI & Data Science</b>
+  <br>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Polars-000000?style=flat&logo=polars&logoColor=white" alt="Polars" />
+  <img src="https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/Mistral_LLM-FF6F00?style=flat" alt="Mistral" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <br><br>
+
+  <b>Frameworks & Tools</b>
+  <br>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Qt_6.5-41CD52?style=flat&logo=qt&logoColor=white" alt="Qt" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <br><br>
+
+  <b>DevOps & Infra</b>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Coolify-652BFA?style=flat" alt="Coolify" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## Languages & Coding Activity
+## AI Tools & Platforms
 
 <div align="center">
-  <img src="http://asw80s4kckwgc4w84s080k8s.187.77.226.95.sslip.io/api/top-langs" width="100%" alt="Top Languages" />
-  <br/>
-  <br/>
-  <img src="http://asw80s4kckwgc4w84s080k8s.187.77.226.95.sslip.io/api/wakatime" width="100%" alt="Wakatime Activity" />
+  <img src="https://img.shields.io/badge/ChatGPT_Pro-412991?style=flat&logo=openai&logoColor=white" alt="ChatGPT Pro" />
+  <img src="https://img.shields.io/badge/GPT_CLI-412991?style=flat&logo=openai&logoColor=white" alt="GPT CLI" />
+  <img src="https://img.shields.io/badge/GPT_Codex-412991?style=flat&logo=openai&logoColor=white" alt="GPT Codex" />
+  <br>
+  <img src="https://img.shields.io/badge/Claude_Code_CLI-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Code CLI" />
+  <img src="https://img.shields.io/badge/Claude_Desktop-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude Desktop" />
+  <img src="https://img.shields.io/badge/Claude_AI_(Pro)-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude AI Pro" />
+  <br>
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
+  <img src="https://img.shields.io/badge/Gemini_Pro-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Gemini Pro" />
+  <img src="https://img.shields.io/badge/Jules_CLI-4285F4?style=flat&logo=google&logoColor=white" alt="Jules CLI" />
+  <br>
+  <img src="https://img.shields.io/badge/Antigravity-1A1A2E?style=flat" alt="Antigravity" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## Projects
+## Featured Projects
 
-### Project Highlight: HubFollow
-Intelligent platform for managing and analyzing reciprocity on GitHub. **HubFollow** allows you to identify users you follow who don't follow you back, and vice versa, facilitating the curation of your professional network.
+* **ExNeural** — Neural network engine for predictive analysis of operational KPIs and data-driven forecasting. `Python` `Neural Networks`
+* **Antigravity** — TypeScript/Fastify GitHub profile stats card generator (self-hosted via Coolify). `TypeScript` `Fastify` `Docker`
+* **Native Padronizador** — High-performance desktop automation tool developed for Windows environments. `C++` `Qt 6.5`
+* **Mistral LLM Worker** — Asynchronous NLP worker for integrating large language models into technical support workflows. `Python` `LLM`
+* **BlockKeys** — Low-level system utility for terminal security and key management in kiosk environments. `C#` `AutoHotkey`
 
-Developed to validate the demand for networking management tools, the project offers an intuitive interface for analyzing profile metrics in real time.
+<br>
 
-**Project Link:** [HubFollow Live](http://tw004g0oo4soo0c4s4g800oc.187.77.226.95.sslip.io)
+<div align="center">
+  <img src="https://esousa97.com/api/pin" width="100%" alt="Pinned Repositories" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&hide_border=true&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e" width="100%" alt="GitHub activity graph" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg" width="100%" alt="Contribution activity animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&bg_color=0d1117&color=8b949e&line=2d7ff9&point=58a6ff&area=true&area_color=1a1a2e&hide_border=true" width="100%" alt="Activity Graph" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg" width="100%" alt="Contribution Snake" />
+  <br><br>
+  <img src="https://esousa97.com/api/devops" width="100%" alt="DevOps Metrics" />
+  <br><br>
+  <img src="https://esousa97.com/api/activity" width="100%" alt="Recent Activity" />
+  <br><br>
+  <img src="https://esousa97.com/api/top-langs" width="48%" alt="Top Languages" />
+  <img src="https://esousa97.com/api/wakatime" width="48%" alt="WakaTime Activity" />
+  <br><br>
+  <img src="https://esousa97.com/api/streak" width="100%" alt="GitHub Streak" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
-## Education
+## Currently Working On
 
-**Academic Background**
-- Computer Engineering · Bachelor · In progress
+* Scaling the Antigravity SVG engine for dynamic profile analytics.
+* Implementing LLM-based triage automation for high-volume ITSM environments.
+* Native performance optimization for Windows provisioning tools using Rust and C++.
 
-**Languages**
-- English: Technical reading and basic conversation
-- Spanish: Basic reading
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br>
 
 <div align="center">
-  <strong>São Paulo, Brazil</strong> · Available for opportunities
-  <br/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=ESousa97&color=2d7ff9&style=flat-square&label=Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ESousa97&color=2d7ff9&style=flat&label=Views" alt="Profile Views" />
 </div>
