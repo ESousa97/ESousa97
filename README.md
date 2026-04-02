@@ -112,8 +112,9 @@ Lead Support Analyst managing N1/N2 operations for 280 units in high-criticality
   <br><br>
   <img src="https://esousa97.com/api/activity" width="100%" alt="Recent Activity" />
   <br><br>
-  <img src="https://esousa97.com/api/top-langs" width="48%" alt="Top Languages" />
-  <img src="https://esousa97.com/api/wakatime" width="48%" alt="WakaTime Activity" />
+  <img src="https://esousa97.com/api/top-langs" width="100%" alt="Top Languages" />
+  <br><br>
+  <img src="https://esousa97.com/api/wakatime" width="100%" alt="WakaTime Activity" />
   <br><br>
   <img src="https://esousa97.com/api/streak" width="100%" alt="GitHub Streak" />
 </div>
