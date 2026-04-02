@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:4a0e4e,60:7b2d8e,100:bd93f9&height=280&section=header&text=ESousa97&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Engineering%20|%20DevOps%20|%20AI%20&%20Data%20&descAlignY=55&descSize=20&descAlign=50"/>
 
   <h1>Enoque Sousa (ESousa97)</h1>
-  <b>Lead Support Analyst | Transitioning to Software Engineering & DevOps</b>
+  <b>Lead Support Analyst</b>
   <br>
   São Paulo, Brazil
   <br><br>
@@ -60,7 +60,11 @@ Lead Support Analyst managing N1/N2 operations for 280 units in high-criticality
   <img src="https://img.shields.io/badge/Coolify-652BFA?style=flat" alt="Coolify" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows Server" />
+  <img src="https://img.shields.io/badge/Hyper--V-0078D6?style=flat&logo=hyperv&logoColor=white" alt="Hyper-V" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Batch_Script-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" alt="Batch Script" />
+  <img src="https://img.shields.io/badge/VBS-2C2255?style=flat&logo=windows&logoColor=white" alt="VBS" />
 </div>
 
 <br>
