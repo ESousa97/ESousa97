@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,30:4a0e4e,60:7b2d8e,100:bd93f9&height=280&section=header&text=ESousa97&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Engineering%20|%20DevOps%20|%20AI%20&%20Data%20&descAlignY=55&descSize=20&descAlign=50"/>
 
-  <h1>Enoque Sousa (ESousa97)</h1>
-  <b>Lead Support Analyst</b>
+  <h1>Lead Support Analyst</h1>
   <br>
   São Paulo, Brazil
   <br><br>
