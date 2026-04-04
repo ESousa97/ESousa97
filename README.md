@@ -16,7 +16,7 @@
 
 ## About Me
 
-Lead Support Analyst managing N1/N2 operations for 280 units in high-criticality 24x7 environments, maintaining a consistent SLA above 98%. Expert in bridging IT infrastructure with software engineering, I develop high-performance automations and data-driven architectures. My focus lies in systems optimization, having reduced operational service times by up to 72% through custom engineering solutions. Currently specializing in AI integration, native desktop development (C++/Qt), and backend scalability.
+Lead Support Analyst managing N1/N2 operations for 280 units in high-criticality 24x7 environments, maintaining a consistent SLA above 90%. Expert in bridging IT infrastructure with software engineering, I develop high-performance automations and data-driven architectures. My focus lies in systems optimization, having reduced operational service times by up to 72% through custom engineering solutions. Currently specializing in AI integration, native desktop development (C++/Qt), and backend scalability.
 
 <br>
 
