@@ -72,13 +72,13 @@ MCP Servers, observability layers, and automation tooling that integrates LLMs i
 
 > The three projects below represent production systems, not exercises.
 
-**[data-analyzer-kfc](https://github.com/ESousa97/data-analyzer-kfc-desenvolvimento)**
+**data-analyzer**
 Helpdesk BI platform processing enterprise support operations. ETL pipeline with incremental sync, MTTR calculation against business hours, 5-layer SLA normalization, and statistical projections. Stack: Python · FastAPI · DuckDB · React 19 · TanStack Query.
 
 **[py-rag-engine](https://github.com/ESousa97/py-rag-engine)**
 Production RAG engine with semantic chunking, pgvector persistence, and relevance evaluation. Built to serve as the retrieval backbone for AI assistants in high-volume support environments. Stack: Python · LangChain · pgvector · SQLAlchemy · pytest.
 
-**[base-imc-lite](https://github.com/ESousa97/base-imc-lite)**
+**base-imc-lite**
 Enterprise knowledge management platform with AI chatbot (GPT-4), 3-level RBAC, brute-force protection, JWT with JTI blacklist, and audit trail for 1,000+ events. Stack: Next.js · TypeScript · OpenAI · bcryptjs · jose.
 
 ---
