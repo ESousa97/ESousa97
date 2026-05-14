@@ -100,6 +100,30 @@ Enterprise knowledge management platform with AI chatbot (GPT-4), 3-level RBAC, 
 <br>
 
 <div align="center">
+  <img src="https://esousa97.com/api/activity?username=ESousa97" width="100%" alt="Activity Heatmap" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://esousa97.com/api/devops?username=ESousa97" width="100%" alt="DevOps Signals" />
+  <img src="https://esousa97.com/api/coding-stats?username=ESousa97" width="100%" alt="Coding Activity" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://esousa97.com/api/pin?username=ESousa97&repo=data-analyzer-kfc-desenvolvimento" width="49%" alt="data-analyzer-kfc" />
+  <img src="https://esousa97.com/api/pin?username=ESousa97&repo=py-rag-engine" width="49%" alt="py-rag-engine" />
+</div>
+<div align="center">
+  <img src="https://esousa97.com/api/pin?username=ESousa97&repo=base-imc-lite" width="49%" alt="base-imc-lite" />
+  <img src="https://esousa97.com/api/pin?username=ESousa97&repo=godeploy-platform" width="49%" alt="godeploy-platform" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg" width="100%" alt="Contribution Snake" />
 </div>
 
