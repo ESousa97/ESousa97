@@ -1,45 +1,47 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6fa0&height=260&section=header&text=Enoque%20Sousa&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20Data%20Pipelines&descAlignY=56&descSize=18&descAlign=50" alt="Header" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6fa0&height=260&section=header&text=Enoque%20Sousa&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20-%20AI%20and%20LLM%20Pipelines&descAlignY=56&descSize=20&descAlign=50" alt="Header" />
+  
   <a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/LinkedIn-Enoque_Sousa-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/Email-sousa3086%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
   <a href="https://enoquesousa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-enoquesousa.vercel.app-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </div>
 
 ---
-
+ 
 ## About
-
-I build AI systems that solve real production problems — not prototypes.
-
-My background is in mission-critical infrastructure: years operating 24/7 environments where systems can't fail. That foundation is what separates the way I build AI from most: I understand deployment, reliability, and observability before a model ever reaches production.
-
-Today I focus on LLM engineering, RAG architectures, autonomous agents, and intelligent data pipelines. Every project in this profile was built to run in production, not to demonstrate that I know a framework.
-
-**Currently:** Architecting an AI-powered helpdesk analytics platform processing 5,000+ support tickets — semantic classification with local LLMs (Qwen2.5 14B), predictive SLA analysis, and behavioral profiling of support patterns.
-
+ 
+I build intelligent data pipelines and AI systems that solve real production problems — not prototypes.
+ 
+My background is in mission-critical infrastructure: years operating 24/7 environments where systems can't fail. That foundation separates the way I build from most: I understand deployment, reliability, and observability before a model or pipeline ever reaches production.
+ 
+Today I focus on data engineering with AI applied at every layer — ETL pipelines, LLM systems, RAG architectures, and autonomous agents. Every project in this profile processes real data, runs in production, and solves measurable problems.
+ 
+AI-augmented engineering is my daily workflow — Claude Code, Gemini CLI, GitHub Copilot, Cursor, OpenAI Codex, and Antigravity as active engineering partners, not just assistants.
+ 
+**Currently:** Running a helpdesk analytics platform in production processing **21,000+ tickets** across enterprise contracts (KFC · IMC) — real-time ingestion via Pipefy and InvGate webhooks, 5-layer SLA normalization, predictive breach analysis, and semantic classification with local LLMs (Qwen2.5 14B).
+ 
 ---
-
+ 
 ## What I Build
-
+ 
+**Intelligent Data Pipelines**
+High-performance ETL and analytics with FastAPI, DuckDB, Polars, and PostgreSQL. Real-time ingestion, incremental sync, and operational intelligence at scale.
+ 
 **LLM Systems & RAG**
 Retrieval-Augmented Generation pipelines with semantic chunking, pgvector, reranking, and output quality evaluation. Built for production — not tutorials.
-
+ 
 **Autonomous Agents**
 Multi-step agents with LangChain and LangGraph that handle real workflows: ticket triage, knowledge retrieval, incident response, and decision routing.
-
-**Intelligent Data Pipelines**
-High-performance ETL and analytics with FastAPI, DuckDB, Polars, and PostgreSQL. Turning unstructured operational data into actionable intelligence.
-
+ 
 **AI-Augmented Infrastructure**
 MCP Servers, observability layers, and automation tooling that integrates LLMs into existing systems without breaking what already works.
-
+ 
 ---
-
+ 
 ## Stack
-
+ 
 **AI & Data**
-
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -47,18 +49,29 @@ MCP Servers, observability layers, and automation tooling that integrates LLMs i
 ![Polars](https://img.shields.io/badge/Polars-000000?style=flat&logo=polars&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat&logo=postgresql&logoColor=white)
-
+ 
 **Models & Inference**
-
+ 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM_Studio-311C87?style=flat)
 ![Qwen2.5](https://img.shields.io/badge/Qwen2.5_14B-4A00E0?style=flat)
 ![NVIDIA RTX](https://img.shields.io/badge/NVIDIA_RTX-76B900?style=flat&logo=nvidia&logoColor=white)
-
+ 
+**AI Tooling**
+ 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-1A1A2E?style=flat)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-1a6fa0?style=flat)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=flat&logo=google&logoColor=white)
+![Jules CLI](https://img.shields.io/badge/Jules_CLI-4285F4?style=flat&logo=google&logoColor=white)
+ 
 **Engineering**
-
+ 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
