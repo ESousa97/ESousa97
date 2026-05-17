@@ -107,7 +107,7 @@ Enterprise knowledge management platform with AI chatbot (GPT-4), 3-level RBAC, 
 <img src="https://esousa97.com/api/stats?username=ESousa97&theme=pro-dark" alt="Stats" width="100%" />
 <img src="https://esousa97.com/api/top-langs?username=ESousa97&theme=pro-dark" alt="Top Languages" width="100%" />
 <img src="https://esousa97.com/api/streak?username=ESousa97&theme=pro-dark" alt="Streak" width="100%" />
-<img src="https://esousa97.com/api/activity?username=ESousa97&theme=pro-dark" alt="Activity" width="100%" />
+<img src="https://esousa97.com/api/activity?username=ESousa97&theme=dracula-black" alt="Activity" width="100%" />
 <img src="https://esousa97.com/api/devops?username=ESousa97&theme=pro-dark" alt="DevOps" width="100%" />
 <img src="https://esousa97.com/api/coding-stats?username=ESousa97&theme=pro-dark" alt="Coding Stats" width="100%" />
 <img src="https://esousa97.com/api/pin?username=ESousa97&theme=pro-dark" alt="pin" width="100%" />
