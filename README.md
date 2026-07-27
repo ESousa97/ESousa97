@@ -10,7 +10,12 @@
 
 <a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/LinkedIn-1A6FA0?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/Email-0A3D62?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-<a href="https://enoquesousa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D07A46?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://enoquesousa.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Portfolio-enoquesousa.com-D07A46?style=flat&logo=googlechrome&logoColor=white"
+    alt="Portfolio — enoquesousa.com"
+  />
+</a>
 
 
 <sub>
