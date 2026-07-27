@@ -8,13 +8,10 @@
 
 <samp>Building reliable data systems that turn operational complexity into measurable decisions.</samp>
 
-<br><br>
-
 <a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/LinkedIn-1A6FA0?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/Email-0A3D62?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
 <a href="https://enoquesousa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D07A46?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-<br><br>
 
 <sub>
 <a href="#about">ABOUT</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#engineering-focus">FOCUS</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#selected-engineering-work">SELECTED&nbsp;WORK</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#open-source">OPEN&nbsp;SOURCE</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#engineering-toolkit">TOOLKIT</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#github-activity">ACTIVITY</a>
@@ -33,8 +30,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a6fa0,100:0d1117&height=2&width=1000" width="100%" alt="" />
 </div>
@@ -46,8 +41,6 @@
 ### 01 · About
 
 <sub>BACKGROUND&nbsp;&nbsp;·&nbsp;&nbsp;FOCUS&nbsp;&nbsp;·&nbsp;&nbsp;HOW I WORK</sub>
-
-<br>
 
 I design and operate reliable data systems that transform operational data into measurable business decisions.
 
