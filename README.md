@@ -404,17 +404,11 @@ AI tools support exploration, implementation, testing, documentation, and review
 
 <samp>Data Engineering · Operational Analytics · Applied AI · Reliability</samp>
 
-<br><br>
-
 <a href="mailto:sousa3086@outlook.com">
   <img src="https://img.shields.io/badge/Start%20a%20conversation-D07A46?style=flat&logo=microsoftoutlook&logoColor=white" alt="Start a conversation" height="30" />
 </a>
 
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=ESousa97&color=D07A46&style=flat&label=Profile+Views" alt="Profile views" />
-
-<br><br>
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6fa0&height=120&section=footer&animation=fadeIn"
