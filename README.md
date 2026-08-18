@@ -1,417 +1,172 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6fa0&height=235&section=header&text=Enoque%20Sousa&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=37&desc=Data%20Engineer%20%7C%20Operational%20Analytics%20%7C%20Applied%20AI&descAlignY=58&descSize=17&descAlign=50"
-  width="100%"
-  alt="Enoque Sousa — Data Engineer"
-/>
+# Enoque Sousa
 
-<samp>Building reliable data systems that turn operational complexity into measurable decisions.</samp>
+### Software Engineer · Critical Food Service Operations
 
-<a href="https://linkedin.com/in/enoque-sousa-bb89aa168"><img src="https://img.shields.io/badge/LinkedIn-1A6FA0?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sousa3086@outlook.com"><img src="https://img.shields.io/badge/Email-0A3D62?style=flat&logo=microsoftoutlook&logoColor=white" alt="Email" /></a>
-<a href="https://enoquesousa.com" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/Portfolio-enoquesousa.com-D07A46?style=flat&logo=googlechrome&logoColor=white"
-    alt="Portfolio — enoquesousa.com"
-  />
-</a>
+I build reliable software for operations that cannot stop.
 
-
-<sub>
-<a href="#about">ABOUT</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#engineering-focus">FOCUS</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#selected-engineering-work">SELECTED&nbsp;WORK</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#open-source">OPEN&nbsp;SOURCE</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#engineering-toolkit">TOOLKIT</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="#github-activity">ACTIVITY</a>
-</sub>
+<p align="center">
+  <a href="https://enoquesousa.com/en">
+    <img src="https://img.shields.io/badge/Portfolio-0C718C?style=flat&logo=googlechrome&logoColor=white" height="22" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/enoque-sousa-bb89aa168/">
+    <img src="https://img.shields.io/badge/LinkedIn-2D8DA7?style=flat&logo=linkedin&logoColor=white" height="22" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:sousa3086@outlook.com">
+    <img src="https://img.shields.io/badge/Email-A95800?style=flat&logo=microsoftoutlook&logoColor=white" height="22" alt="Email" />
+  </a>
+</p>
 
 </div>
 
+---
+
+## About
+
+I am a Software Engineer and Operational Lead focused on critical food service, POS and Service Desk environments. I moved from frontline support into engineering, turning recurring incidents into observable, auditable and recoverable systems.
+
+Data and AI are tools inside that work—not labels. I use them when they improve diagnosis, prioritization, decision-making or recovery, with human oversight and operational controls.
+
+**600+** Windows endpoints managed · **146** sites observed · **32k+** service records turned into operational decisions
+
+<h2>Selected Work</h2>
+
+<h3>
+  <a href="https://enoquesousa.com/en/projects/windows-endpoint-management">
+    Endpoint Management & Safe Remediation
+  </a>
+</h3>
+
+<p>
+  Management and controlled recovery for <strong>600+ Windows endpoints</strong>,
+  with explicit scope, full auditability and fallback collection when a site
+  cannot reach the central service.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Windows-0C718C?style=flat&logo=windows11&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Endpoint_Management-2D8DA7?style=flat&logo=windows-terminal&logoColor=white" alt="Endpoint Management" />
+  <img src="https://img.shields.io/badge/600%2B_Endpoints-2A7658?style=flat&logo=serverfault&logoColor=white" alt="600+ Endpoints" />
+  <img src="https://img.shields.io/badge/Auditable-A95800?style=flat&logo=datadog&logoColor=white" alt="Auditable" />
+</p>
+
 <br>
 
+<h3>
+  <a href="https://enoquesousa.com/en/projects/infrastructure-observability-incident-response">
+    Observability & Incident Response
+  </a>
+</h3>
+
+<p>
+  A distributed baseline across <strong>146 sites</strong> that turned
+  <strong>billions of records</strong> into traceable evidence during a
+  security incident.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Observability-0C718C?style=flat&logo=prometheus&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/Incident_Response-A95800?style=flat&logo=securityscorecard&logoColor=white" alt="Incident Response" />
+  <img src="https://img.shields.io/badge/146_Sites-2D8DA7?style=flat&logo=googlemaps&logoColor=white" alt="146 Sites" />
+  <img src="https://img.shields.io/badge/Billions_of_Records-2A7658?style=flat&logo=databricks&logoColor=white" alt="Billions of Records" />
+</p>
+
+<br>
+
+<h3>
+  <a href="https://enoquesousa.com/en/projects/pos-observability-agent">
+    Local Diagnostics for POS Systems
+  </a>
+</h3>
+
+<p>
+  A <strong>Rust agent</strong> that correlates processes, TCP ports, logs,
+  database integrity, HTTP health and host resources every
+  <strong>five seconds</strong>.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Rust-A95800?style=flat&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/POS_Diagnostics-0C718C?style=flat&logo=gnometerminal&logoColor=white" alt="POS Diagnostics" />
+  <img src="https://img.shields.io/badge/TCP_%26_HTTP-2D8DA7?style=flat&logo=cloudflare&logoColor=white" alt="TCP & HTTP" />
+  <img src="https://img.shields.io/badge/5s_Telemetry-2A7658?style=flat&logo=speedtest&logoColor=white" alt="5 second telemetry" />
+</p>
+
+<h2>Core Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-0C718C?style=flat&logo=dotnet&logoColor=white" height="24" alt="C# / .NET" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-2D8DA7?style=flat&logo=python&logoColor=white" height="24" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-0C718C?style=flat&logo=typescript&logoColor=white" height="24" alt="TypeScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Rust-A95800?style=flat&logo=rust&logoColor=white" height="24" alt="Rust" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PowerShell-2D8DA7?style=flat&logo=powershell&logoColor=white" height="24" alt="PowerShell" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-2A7658?style=flat&logo=fastapi&logoColor=white" height="24" alt="FastAPI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/React-2D8DA7?style=flat&logo=react&logoColor=white" height="24" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DuckDB-FFB454?style=flat&logo=duckdb&logoColor=071116" height="24" alt="DuckDB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQLite-0C718C?style=flat&logo=sqlite&logoColor=white" height="24" alt="SQLite" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Docker-2D8DA7?style=flat&logo=docker&logoColor=white" height="24" alt="Docker" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Prometheus-A95800?style=flat&logo=prometheus&logoColor=white" height="24" alt="Prometheus" />
+</p>
+
+## Selected credentials
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
+        <img src="assets/certifications/aws-cloud-practitioner.png" height="150" alt="AWS Certified Cloud Practitioner badge" />
+      </a>
+      <br />
+      <sub><strong>AWS Certified Cloud Practitioner</strong></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://cursos.alura.com.br/immersion/certificate/c7df9558-35be-422e-beb1-e3c309fe9b1f">
+        <img src="assets/certifications/google-ai-agents-immersion.png" height="150" alt="Google AI Agents Immersion certificate" />
+      </a>
+      <br />
+      <sub><strong>Google AI Agents Immersion</strong></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>GitHub Stats</h2>
+
 <div align="center">
-
-<img src="https://img.shields.io/badge/21K%2B-Support%20Tickets-0D1117?style=flat&labelColor=0D1117&color=D07A46" alt="21K+ support tickets analyzed" height="26" />
-<img src="https://img.shields.io/badge/132-RAG%20Tests%20in%20CI-0D1117?style=flat&labelColor=0D1117&color=D07A46" alt="132 RAG tests in CI" height="26" />
-<img src="https://img.shields.io/badge/26%20Years-Time--Series%20Data-0D1117?style=flat&labelColor=0D1117&color=D07A46" alt="26 years of time-series data" height="26" />
-<img src="https://img.shields.io/badge/Multi--site-Infrastructure%20Observability-0D1117?style=flat&labelColor=0D1117&color=D07A46" alt="Multi-site infrastructure observability" height="26" />
-
+  <a href="https://github.com/ESousa97">
+    <img
+      src="https://github-readme-stats.shion.dev/api?username=ESousa97&show_icons=true&include_all_commits=true&hide_border=true&bg_color=071116&title_color=FFB454&text_color=E7F0F2&icon_color=66D0EA&ring_color=FFB454"
+      height="165"
+      alt="Enoque Sousa GitHub Stats"
+    />
+  </a>
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a6fa0,100:0d1117&height=2&width=1000" width="100%" alt="" />
-</div>
-
-<br>
-
-<a id="about"></a>
-
-### 01 · About
-
-<sub>BACKGROUND&nbsp;&nbsp;·&nbsp;&nbsp;FOCUS&nbsp;&nbsp;·&nbsp;&nbsp;HOW I WORK</sub>
-
-I design and operate reliable data systems that transform operational data into measurable business decisions.
-
-My background is rooted in mission-critical infrastructure and 24/7 enterprise operations, where reliability, observability, security, and incident response are part of the system — not afterthoughts. That operational foundation shapes how I design pipelines, APIs, automation, analytical products, and production services.
-
-My core focus is Data Engineering: ETL and ELT pipelines, event-driven ingestion, data modeling, operational analytics, APIs, data quality, and observability. I also build RAG, semantic retrieval, forecasting, and local-LLM capabilities when they provide clear operational value.
-
-AI augments how I explore, implement, test, document, and improve systems. Architecture, validation, security, and technical decisions remain grounded in software engineering principles.
-
-> [!IMPORTANT]
-> **Current focus** — Operating an enterprise helpdesk analytics platform that processes 21,000+ support tickets, combining scheduled incremental ingestion, business-hours MTTR, configurable SLA normalization, trend analysis, statistical projections, and interactive operational dashboards.
-
-<br>
-
-<a id="engineering-focus"></a>
-
-### 02 · Engineering Focus
-
-<sub>FOUR DISCIPLINES&nbsp;&nbsp;·&nbsp;&nbsp;ONE SYSTEM</sub>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<br>
-
-**Data Engineering**
-
-Incremental ingestion, ETL/ELT, validation, deduplication, data modeling, analytical storage, scheduling, retries, and audit trails.
-<br><br>
-</td>
-<td width="50%" valign="top">
-<br>
-
-**Operational Analytics**
-
-Data products for tickets, events, logs, SLAs, infrastructure health, incident signals, and business-facing operational indicators.
-<br><br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<br>
-
-**Applied AI &amp; Retrieval**
-
-RAG, hybrid search, semantic retrieval, reranking, local inference, time-series forecasting, evaluation, and grounded generation.
-<br><br>
-</td>
-<td width="50%" valign="top">
-<br>
-
-**Systems &amp; Reliability**
-
-Backend services, Windows tooling, secure automation, real-time agents, observability, CLIs, and performance-oriented software.
-<br><br>
-</td>
-</tr>
-</table>
-
-<br>
-
-<a id="selected-engineering-work"></a>
-
-### 03 · Selected Engineering Work
-
-<sub>PRIVATE CASE STUDIES&nbsp;&nbsp;·&nbsp;&nbsp;INTENTIONALLY ANONYMIZED</sub>
-
-<br>
-
-> [!NOTE]
-> Client names, infrastructure identifiers, operational thresholds, proprietary data, and incident details are omitted from every case study below.
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**Enterprise Helpdesk Analytics Platform**
-&nbsp;
-<img src="https://img.shields.io/badge/Production-1A6FA0?style=flat" alt="Production" height="20" />
-<img src="https://img.shields.io/badge/Proprietary-5C6370?style=flat" alt="Proprietary" height="20" />
-
-Operational intelligence platform that transforms support-ticket lifecycles into reliable SLA, MTTR, backlog, workload, trend, and projection indicators.
-
-`scheduled incremental ingestion` `idempotent processing` `business-hours time engine` `configurable SLA normalization` `statistical projections` `data-quality controls` `interactive dashboards`
-
-<sub>**STACK**&nbsp; Python · FastAPI · DuckDB · Polars · React 19 · TypeScript · TanStack Query</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**Distributed Fleet Observability &amp; Incident Response**
-&nbsp;
-<img src="https://img.shields.io/badge/Internal%20System-1A6FA0?style=flat" alt="Internal Operational System" height="20" />
-<img src="https://img.shields.io/badge/Proprietary-5C6370?style=flat" alt="Proprietary" height="20" />
-
-Multi-site observability platform for distributed Windows infrastructure, combining continuous health probes, remote inventory, event and log ingestion, persisted operational history, and real-time dashboards.
-
-The platform includes low-overhead monitoring agents, transition-based alerts, integrity-verified operational artifacts, and guarded workflows designed around allowlists, dry runs, explicit confirmation, and auditability.
-
-`TCP health probes` `latency and availability history` `Windows event correlation` `hardware and software inventory` `SSE live updates` `Prometheus metrics` `evidence integrity` `safe remote automation`
-
-<sub>**STACK**&nbsp; C# · .NET 8 · Rust · PowerShell · TypeScript · Fastify · React · SQLite · SSE · Prometheus</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**Time-Series Risk Forecasting &amp; AI Decision Support**
-&nbsp;
-<img src="https://img.shields.io/badge/Academic%20Research-1A6FA0?style=flat" alt="Academic Research" height="20" />
-<img src="https://img.shields.io/badge/Private-5C6370?style=flat" alt="Private" height="20" />
-
-Forecasting pipeline that combines live public data, 26 years of historical time-series data, weather signals, bidirectional LSTM inference, and multi-model LLM synthesis with local inference.
-
-The system applies schema validation, retry and fallback strategies, atomic caching, dependency injection, cross-model consistency checks, and automated testing to produce traceable technical reports.
-
-`historical-data ingestion` `feature preparation` `GPU training` `time-series inference` `multi-model orchestration` `structured-output validation` `comprehensive automated test suite`
-
-<sub>**STACK**&nbsp; Python · PyTorch · BiLSTM · CUDA · Public APIs · Local LLMs · pytest</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**Enterprise Knowledge &amp; AI Platform**
-&nbsp;
-<img src="https://img.shields.io/badge/Internal%20System-1A6FA0?style=flat" alt="Internal System" height="20" />
-<img src="https://img.shields.io/badge/Proprietary-5C6370?style=flat" alt="Proprietary" height="20" />
-
-Internal knowledge platform with structured technical documentation, AI-assisted retrieval, protected authentication flows, role-based access control, audit trails, sensitive-data filtering, and conversational support workflows.
-
-`large technical knowledge base` `full-text and fuzzy search` `contextual AI assistance` `streaming` `RBAC` `session controls` `rate limiting` `security headers` `audit logging`
-
-<sub>**STACK**&nbsp; Next.js · TypeScript · Fuse.js · OpenAI-compatible APIs · JWT · RBAC</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-<a id="open-source"></a>
-
-### 04 · Open Source
-
-<sub>PUBLIC REPOSITORIES&nbsp;&nbsp;·&nbsp;&nbsp;ENGINEERING PORTFOLIO</sub>
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**py-rag-engine**
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-1A6FA0?style=flat" alt="Open Source" height="20" />
-<img src="https://img.shields.io/badge/132%20Tests-D07A46?style=flat" alt="132 tests" height="20" />
-
-End-to-end RAG engine with PDF and Markdown ingestion, recursive and semantic chunking, PostgreSQL and pgvector persistence, hybrid retrieval, Reciprocal Rank Fusion, Cross-Encoder reranking, grounded generation, and offline quality evaluation.
-
-<sub>**STACK**&nbsp; Python · FastAPI · PostgreSQL · pgvector · SQLAlchemy · RAGAS · pytest</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**Beam**
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-1A6FA0?style=flat" alt="Open Source" height="20" />
-<img src="https://img.shields.io/badge/Local--first-5C6370?style=flat" alt="Local-first" height="20" />
-
-Secure local clipboard synchronization between Windows and Android. Supports text and image synchronization, LAN discovery, encrypted sessions, device pairing, screenshots, simulated keyboard input, and automatic reconnection — without a cloud relay.
-
-<sub>**STACK**&nbsp; C# · .NET · WPF · Kotlin · Jetpack Compose · WebSocket · X25519 · AES-256-GCM</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**wallet-live**
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-1A6FA0?style=flat" alt="Open Source" height="20" />
-<img src="https://img.shields.io/badge/Full--stack%20Rust-5C6370?style=flat" alt="Full-stack Rust" height="20" />
-
-Transactional investment wallet built entirely in Rust, with exact monetary values, immutable transaction history, market quote synchronization, secure session management, role-based authorization, SSR, observability, and containerized deployment.
-
-<sub>**STACK**&nbsp; Rust · Axum · PostgreSQL · SQLx · Askama · HTMX · OpenTelemetry</sub>
-
-</td></tr>
-</table>
-
-<br>
-
-<details>
-<summary><strong>Completed Go engineering labs</strong></summary>
-
-<br>
-
-| Repository | Systems concepts |
-| :--- | :--- |
-| **godistributedkv** | Quorum replication, leader election, gRPC, and write-ahead logging. |
-| **goobservabilitystack** | RED metrics, OpenTelemetry, Prometheus, Jaeger, and Grafana. |
-| **gocontainerruntime** | Linux namespaces, cgroups, chroot, and process isolation. |
-| **gowasmrunner** | Isolated WebAssembly execution with memory and timeout limits. |
-
-<sub>Completed study and systems-engineering repositories, currently archived.</sub>
-
-</details>
-
-<br>
-
-<a id="engineering-toolkit"></a>
-
-### 05 · Engineering Toolkit
-
-<sub>DATA&nbsp;&nbsp;·&nbsp;&nbsp;BACKEND&nbsp;&nbsp;·&nbsp;&nbsp;SYSTEMS&nbsp;&nbsp;·&nbsp;&nbsp;OBSERVABILITY</sub>
-
-<br>
+---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0A3D62?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PostgreSQL-0A3D62?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/DuckDB-0A3D62?style=flat&logo=duckdb&logoColor=white" alt="DuckDB" />
-<img src="https://img.shields.io/badge/FastAPI-0A3D62?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Rust-0A3D62?style=flat&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/.NET-0A3D62?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
-<img src="https://img.shields.io/badge/TypeScript-0A3D62?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Docker-0A3D62?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/OpenTelemetry-0A3D62?style=flat&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+</br>
 
-</div>
+The stack changes. The responsibility for continuity does not.
 
-<br>
+</br>
 
-<details>
-<summary><strong>View the complete engineering toolkit</strong></summary>
-
-<br>
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Data &amp; Backend** | Python · PostgreSQL · pgvector · DuckDB · Polars · SQLAlchemy · SQLx · FastAPI · Axum · Fastify · Next.js |
-| **AI, Retrieval &amp; Forecasting** | PyTorch · CUDA · BiLSTM · Cross-Encoder reranking · RAGAS · local LLMs · OpenAI-compatible APIs · Fuse.js |
-| **Systems &amp; Applications** | Rust · C# · .NET 8 · WPF · Kotlin · Jetpack Compose · React 19 · HTMX · Askama · PowerShell |
-| **Platform, Automation &amp; Observability** | Docker · OpenTelemetry · Prometheus · Grafana · Jaeger · gRPC · SSE · WebSocket · SQLite · pytest |
-
-</details>
-
-<br>
-
-### 06 · Engineering Principles
-
-<sub>WHAT I OPTIMIZE FOR&nbsp;&nbsp;·&nbsp;&nbsp;AND WHY</sub>
-
-<br>
-
-| Principle | How it appears in my work |
-| :--- | :--- |
-| **Correctness before dashboards** | Typed schemas, validation, deduplication, deterministic business rules, and explicit data-quality checks. |
-| **Reliability by design** | Idempotency, retries, fallbacks, atomic writes, checkpoints, recovery paths, and failure-aware workflows. |
-| **Observable by default** | Structured logs, metrics, traces, health checks, audit trails, historical state, and actionable alerts. |
-| **Security with operational controls** | Least privilege, encryption, allowlists, dry runs, explicit confirmation, secret isolation, and auditable actions. |
-| **AI with measurable value** | Retrieval and models are evaluated, grounded, constrained, and applied only where they improve an actual workflow. |
-
-<br>
-
-<details>
-<summary><strong>AI-assisted engineering workflow</strong></summary>
-
-<br>
-
-AI tools support exploration, implementation, testing, documentation, and review. They operate inside an engineering workflow built around specifications, source control, automated tests, static analysis, security review, and human validation.
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude%20Code-0A3D62?style=flat&logo=anthropic&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/OpenAI%20Codex-0A3D62?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex" />
-<img src="https://img.shields.io/badge/Gemini%20CLI-0A3D62?style=flat&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
-<img src="https://img.shields.io/badge/GitHub%20Copilot-0A3D62?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-<img src="https://img.shields.io/badge/Cursor-0A3D62?style=flat" alt="Cursor" />
-
-</div>
-
-</details>
-
-<br>
-
-<a id="github-activity"></a>
-
-### 07 · GitHub Activity
-
-<sub>LIVE METRICS&nbsp;&nbsp;·&nbsp;&nbsp;POWERED BY esousa97.com</sub>
-
-<br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=ESousa97&bg_color=0d1117&color=8b949e&line=1a6fa0&point=D07A46&area=true&area_color=0a3d62&hide_border=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
-
-<img src="https://esousa97.com/api/stats?username=ESousa97&theme=dracula" width="100%" alt="GitHub statistics" />
-
-<img src="https://esousa97.com/api/top-langs?username=ESousa97&theme=dracula" width="100%" alt="Most used languages" />
-
-<img src="https://esousa97.com/api/streak?username=ESousa97&theme=dracula" width="100%" alt="GitHub contribution streak" />
-
-<img src="https://esousa97.com/api/activity?username=ESousa97" width="100%" alt="Recent GitHub activity" />
-
-<img src="https://esousa97.com/api/pin?username=ESousa97&theme=dracula" width="100%" alt="Featured GitHub repositories" />
-
-<img
-  src="https://raw.githubusercontent.com/ESousa97/ESousa97/output/github-contribution-grid-snake-tech.svg"
-  width="100%"
-  alt="GitHub contribution grid animation"
-/>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a6fa0,100:0d1117&height=2&width=1000" width="100%" alt="" />
-</div>
-
-<br>
-
-<div align="center">
-
-### Let's build systems that remain useful after the demo.
-
-<samp>Data Engineering · Operational Analytics · Applied AI · Reliability</samp>
-
-<a href="mailto:sousa3086@outlook.com">
-  <img src="https://img.shields.io/badge/Start%20a%20conversation-D07A46?style=flat&logo=microsoftoutlook&logoColor=white" alt="Start a conversation" height="30" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ESousa97&color=D07A46&style=flat&label=Profile+Views" alt="Profile views" />
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:0a3d62,100:1a6fa0&height=120&section=footer&animation=fadeIn"
-  width="100%"
-  alt="Footer"
-/>
-
+<img src="https://komarev.com/ghpvc/?username=ESousa97&color=0C718C&style=flat&label=Profile+Views" alt="Profile views" />
 </div>
