@@ -147,5 +147,5 @@ The stack changes. The responsibility for continuity does not.
 
 </br>
 
-<img src="https://komarev.com/ghpvc/?username=enoquesousa&color=0C718C&style=flat&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=enoquesousa&base=7935&color=0C718C&style=flat&label=Profile+Views" alt="Profile views" />
 </div>
