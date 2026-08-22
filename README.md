@@ -123,27 +123,6 @@ Data and AI are tools inside that work—not labels. I use them when they improv
   <img src="https://img.shields.io/badge/Prometheus-A95800?style=flat&logo=prometheus&logoColor=white" height="24" alt="Prometheus" />
 </p>
 
-## Selected credentials
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner">
-        <img src="assets/certifications/aws-cloud-practitioner.png" height="150" alt="AWS Certified Cloud Practitioner badge" />
-      </a>
-      <br />
-      <sub><strong>AWS Certified Cloud Practitioner</strong></sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://cursos.alura.com.br/immersion/certificate/c7df9558-35be-422e-beb1-e3c309fe9b1f">
-        <img src="assets/certifications/google-ai-agents-immersion.png" height="150" alt="Google AI Agents Immersion certificate" />
-      </a>
-      <br />
-      <sub><strong>Google AI Agents Immersion</strong></sub>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <h2>GitHub Stats</h2>
