@@ -128,9 +128,9 @@ Data and AI are tools inside that work—not labels. I use them when they improv
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/ESousa97">
+  <a href="https://github.com/enoquesousa">
     <img
-      src="https://github-readme-stats.shion.dev/api?username=ESousa97&show_icons=true&include_all_commits=true&hide_border=true&bg_color=071116&title_color=FFB454&text_color=E7F0F2&icon_color=66D0EA&ring_color=FFB454"
+      src="https://github-readme-stats.shion.dev/api?username=enoquesousa&show_icons=true&include_all_commits=true&hide_border=true&bg_color=071116&title_color=FFB454&text_color=E7F0F2&icon_color=66D0EA&ring_color=FFB454"
       height="165"
       alt="Enoque Sousa GitHub Stats"
     />
@@ -147,5 +147,5 @@ The stack changes. The responsibility for continuity does not.
 
 </br>
 
-<img src="https://komarev.com/ghpvc/?username=ESousa97&color=0C718C&style=flat&label=Profile+Views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=enoquesousa&color=0C718C&style=flat&label=Profile+Views" alt="Profile views" />
 </div>
